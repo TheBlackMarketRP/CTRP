@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fwClipSetManager>
+  <clipSets>
+	<Item type="fwClipSet" key="anim@djs@drink@shot">
+      <fallbackId>fallback@none</fallbackId>
+      <clipDictionaryName>anim@djs@drink@shot</clipDictionaryName>
+      <clipItems>
+		<Item type="fwClipItemWithProps" key="djs_drink_shot_idle">
+		  <flags>APF_UPPERBODYONLY</flags>
+		  <priority>AP_MEDIUM</priority>
+		  <boneMask>BothArms_NoSpine_filter</boneMask>
+		</Item>
+		<Item type="fwClipItemWithProps" key="djs_drink_shot_quick">
+		  <flags>APF_UPPERBODYONLY</flags>
+		  <priority>AP_MEDIUM</priority>
+		  <boneMask>BothArms_NoSpine_filter</boneMask>
+		</Item>
+	  </clipItems>
+      <moveNetworkFlags>
+	   </moveNetworkFlags>
+    </Item>
+  </clipSets>
+  <clipDictionaryMetadatas>
+    <Item key="anim@djs@drink@shot">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Weapons</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>
+  </clipDictionaryMetadatas>
+</fwClipSetManager>

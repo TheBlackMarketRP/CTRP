@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fwClipSetManager>
+  <clipSets>
+	<Item type="fwClipSet" key="anim@djs@food@chips">
+      <fallbackId>fallback@none</fallbackId>
+      <clipDictionaryName>anim@djs@food@chips</clipDictionaryName>
+      <clipItems>
+		<Item type="fwClipItemWithProps" key="djs_food_chips_idle">
+		  <flags>APF_UPPERBODYONLY</flags>
+		  <priority>AP_MEDIUM</priority>
+		  <boneMask>BothArms_NoSpine_filter</boneMask>
+		</Item>
+		<Item type="fwClipItemWithProps" key="djs_food_chips_bite_single">
+		  <flags>APF_UPPERBODYONLY</flags>
+		  <priority>AP_MEDIUM</priority>
+		  <boneMask>BothArms_NoSpine_filter</boneMask>
+		</Item>
+		<Item type="fwClipItemWithProps" key="djs_food_chips_bite_loop">
+		  <flags>APF_UPPERBODYONLY</flags>
+		  <priority>AP_MEDIUM</priority>
+		  <boneMask>BothArms_NoSpine_filter</boneMask>
+		</Item>
+		<Item type="fwClipItemWithProps" key="djs_food_chips_handful_loop">
+		  <flags>APF_UPPERBODYONLY</flags>
+		  <priority>AP_MEDIUM</priority>
+		  <boneMask>BothArms_NoSpine_filter</boneMask>
+		</Item>
+	  </clipItems>
+      <moveNetworkFlags>
+	   </moveNetworkFlags>
+    </Item>
+  </clipSets>
+  <clipDictionaryMetadatas>
+    <Item key="anim@djs@food@chips">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Weapons</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>
+  </clipDictionaryMetadatas>
+</fwClipSetManager>

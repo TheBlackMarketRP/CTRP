@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fwClipSetManager>
+  <clipSets>
+	<Item type="fwClipSet" key="anim@djs@food@cone">
+      <fallbackId>fallback@none</fallbackId>
+      <clipDictionaryName>anim@djs@food@cone</clipDictionaryName>
+      <clipItems>
+		<Item type="fwClipItemWithProps" key="djs_food_cone_idle">
+		  <flags>APF_UPPERBODYONLY</flags>
+		  <priority>AP_MEDIUM</priority>
+		  <boneMask>BothArms_NoSpine_filter</boneMask>
+		</Item>
+		<Item type="fwClipItemWithProps" key="djs_food_cone_bite_single">
+		  <flags>APF_UPPERBODYONLY</flags>
+		  <priority>AP_MEDIUM</priority>
+		  <boneMask>BothArms_NoSpine_filter</boneMask>
+		</Item>
+		<Item type="fwClipItemWithProps" key="djs_food_cone_lick_single">
+		  <flags>APF_UPPERBODYONLY</flags>
+		  <priority>AP_MEDIUM</priority>
+		  <boneMask>BothArms_NoSpine_filter</boneMask>
+		</Item>
+		<Item type="fwClipItemWithProps" key="djs_food_cone_lick_multiple">
+		  <flags>APF_UPPERBODYONLY</flags>
+		  <priority>AP_MEDIUM</priority>
+		  <boneMask>BothArms_NoSpine_filter</boneMask>
+		</Item>
+		<Item type="fwClipItemWithProps" key="djs_food_cone_lick_loop">
+		  <flags>APF_UPPERBODYONLY</flags>
+		  <priority>AP_MEDIUM</priority>
+		  <boneMask>BothArms_NoSpine_filter</boneMask>
+		</Item>
+	  </clipItems>
+      <moveNetworkFlags>
+	   </moveNetworkFlags>
+    </Item>
+  </clipSets>
+  <clipDictionaryMetadatas>
+    <Item key="anim@djs@food@cone">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Weapons</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>
+  </clipDictionaryMetadatas>
+</fwClipSetManager>
