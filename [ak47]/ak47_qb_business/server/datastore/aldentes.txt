@@ -1,0 +1,26 @@
+{
+    "buffalo_chicken_strips": {
+        "stock": 430,
+        "price": 500
+    },
+    "mozzarella_sticks": {
+        "stock": 430,
+        "price": 500
+    },
+    "fried_calamari": {
+        "stock": 430,
+        "price": 500
+    },
+    "fries": {
+        "stock": 430,
+        "price": 500
+    },
+    "vodka": {
+        "stock": 430,
+        "price": 500
+    },
+    "meatball": {
+        "stock": 430,
+        "price": 500
+    }
+}

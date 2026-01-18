@@ -1,0 +1,50 @@
+Locales['en'] = {
+    ['open_market'] = "~r~[E]~w~ Shop",
+    ['bought_item_2'] = "You bought %s %s",
+    ['insufficient_funds'] = "Insufficient money",
+    ['stock_empty'] = "Insufficient stock of this item", 
+
+    ['you_get'] = 'You get %sx %s',
+    ['cannot_carry'] = 'You can\' carry more',
+    ['not_money_society'] = 'Not enough money in your shop!\nYou need more $%s',
+    ['not_enough'] = 'Not enough %s',
+
+    ['open_boss'] = '~b~[E]~w~ Boss Menu',
+    ['stock_multi'] = '~y~[E]~w~ Buy Stock',
+    ['shop_items'] = "Stock Items",
+    ['how_many'] = "How many item you need $%s/item",
+    ['open_process'] = '~o~[E]~s~ Process',
+    ['item_required'] = '~y~%sx %s required!',
+    ['press_work'] = '~o~[E]~s~ Work',
+    ['working'] = 'Working...',
+
+    ['put_in'] = 'Put in to the shop',
+    ['put_out'] = 'Pull out from the shop',
+    ['how_put_in'] = "How much you want to put in (number)",
+    ['how_pull_out'] = "How much you want to pull out (number)",
+    ['open_shop'] = '~g~[E]~s~ Manage Shop',
+    ['stock'] = 'Stock: %s',
+    ['just_put_in'] = 'You just put in %sx %s in the shop',
+    ['just_pull_out'] = 'You just put out %sx %s from the shop',
+    ['not_enough_shop_item'] = 'Not enough %s in your shop',
+
+    ['process_menu'] = 'Process Menu',
+    ['start'] = 'Start',
+    ['item_damaged'] = '%sx %s damaged!',
+    ['number_error'] = 'Should be a number',
+    ['price_update'] = 'Price of %s is now $%s',
+    ['not_price'] = 'You are not allowed to change price!',
+    ['not_stock'] = 'You are not allowed to change stock!',
+
+    ['required_to_buy'] = 'You need to have %s!',
+
+    ['preparing'] = 'Preparing...',
+    ['rstress'] = 'Removing stress',
+    ['eating'] = 'Eating...',
+    ['drinking'] = 'Drinking...',
+
+    ['numerr'] = 'Must be number!',
+    ['joberr'] = 'Invalid job name!',
+    ['permerr'] = 'Insufficient Permission!',
+    ['itemerr'] = 'Invalid item!',
+}

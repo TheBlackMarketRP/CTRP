@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+@font-face {
+    font-family: 'EvanstonTavern';
+    src: url('../fonts/EvanstonTavern-1858Medium.ttf');
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: transparent;
+	overflow: hidden;
+}
+
+* {
+	font-family: "EvanstonTavern";
+	color: white;
+}
+
+/******************************************************************************************/
+
+.restarttimer {
+	display: none;
+	position: absolute;
+    height: 40px;
+}
+
+.restarttimer .elements {
+	display: inline-block;
+    height: 100%;
+}
+
+.restarttimer .timer-container {
+	background: rgba(0,0,0,1);
+    width: 80px;
+    font-family: EvanstonTavern !important;
+    font-size: 20px;
+    transform: skew(-10deg);
+    color: white;
+    position: relative;
+    z-index: 10;
+	transition: width 1s, opacity .5s;
+	overflow: hidden;
+}
+
+.restarttimer .timer {
+	position: absolute;
+    top: 2px;
+    width: 100%;
+    transform: skew(10deg);
+    text-align: center;
+    font-size: 22px;
+}
+
+.restarttimer .text-container {
+	background: rgba(0,0,0,0.7);
+    width: 200px;
+    height: 30px;
+    transform: skew(10deg);
+    position: relative;
+    margin-right: -12px;
+    margin-bottom: 5px;
+    z-index: 5;
+	transition: width 1s;
+}
+
+.restarttimer .text {
+	position: absolute;
+    top: 1px;
+    width: calc(100% - 20px);
+    padding: 0px 10px;
+    transform: skew(-10deg);
+    text-align: center;
+    font-size: 18px;
+	
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/******* Timer Positions *******/
+
+.restarttimer.topcenter {
+	top: 50px;
+	left: 50%;
+	transform: translate(-50%, 0);
+}
+
+.restarttimer.topleft {
+	top: 50px;
+	left: 40px;
+}
+
+.restarttimer.topright {
+	top: 50px;
+	right: 40px;
+}
+
+.restarttimer.bottomcenter {
+	bottom: 50px;
+	left: 50%;
+	transform: translate(-50%, 0);
+}
+
+.restarttimer.bottomleft {
+	bottom: 50px;
+	left: 40px;
+}
+
+.restarttimer.bottomright {
+	bottom: 50px;
+	right: 40px;
+}
+
+.restarttimer.centercenter {
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.restarttimer.centerleft {
+	top: 50%;
+	left: 40px;
+	transform: translate(0, -50%);
+}
+
+.restarttimer.centerright {
+	top: 50%;
+	right: 40px;
+	transform: translate(0, -50%);
+}
+
+/******* Resolutions *******/
+
+@media (max-width: 1610px) {
+	.restarttimer { scale: 0.8; }
+	.restarttimer.topright { right: 10px; }
+	.restarttimer.bottomright { right: 10px; }
+	.restarttimer.centerright { right: 10px; }
+	.restarttimer.topleft { left: 10px; }
+	.restarttimer.bottomleft { left: 10px; }
+	.restarttimer.centerleft { left: 10px; }
+}
+
+@media (max-width: 1030px) {
+	.restarttimer { scale: 0.7; }
+	.restarttimer.topright { right: -5px; }
+	.restarttimer.bottomright { right: -5px; }
+	.restarttimer.centerright { right: -5px; }
+	.restarttimer.topleft { left: -5px; }
+	.restarttimer.bottomleft { left: -5px; }
+	.restarttimer.centerleft { left: -5px; }
+}

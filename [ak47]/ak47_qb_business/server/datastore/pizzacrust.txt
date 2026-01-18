@@ -1,0 +1,106 @@
+{
+    "chicken_carbonara": {
+        "stock": 430,
+        "price": 500
+    },
+    "spinach_feta": {
+        "stock": 430,
+        "price": 500
+    },
+    "buffalo_chicken": {
+        "stock": 430,
+        "price": 500
+    },
+    "p_chicken_alfredo": {
+        "stock": 430,
+        "price": 500
+    },
+    "italian_sandwich": {
+        "stock": 430,
+        "price": 500
+    },
+    "pasta_primavera": {
+        "stock": 430,
+        "price": 500
+    },
+    "meat_pizza": {
+        "stock": 430,
+        "price": 500
+    },
+    "wisconsin_cheese": {
+        "stock": 430,
+        "price": 500
+    },
+    "citrus_burst_soda": {
+        "stock": 430,
+        "price": 500
+    },
+    "mediterranean_veggie": {
+        "stock": 430,
+        "price": 500
+    },
+    "pacific_veggie": {
+        "stock": 430,
+        "price": 500
+    },
+    "classic_cola": {
+        "stock": 430,
+        "price": 500
+    },
+    "d_fruit_punch": {
+        "stock": 430,
+        "price": 500
+    },
+    "chicken_bacon_ranch": {
+        "stock": 430,
+        "price": 500
+    },
+    "ultimate_pepperoni": {
+        "stock": 430,
+        "price": 500
+    },
+    "chicken_habanero": {
+        "stock": 430,
+        "price": 500
+    },
+    "spicy_cherry_cola": {
+        "stock": 430,
+        "price": 500
+    },
+    "cali_chicken_bacon": {
+        "stock": 430,
+        "price": 500
+    },
+    "pizza_deluxe": {
+        "stock": 430,
+        "price": 500
+    },
+    "honolulu_hawaiian": {
+        "stock": 430,
+        "price": 500
+    },
+    "philly_cheese_sandwich": {
+        "stock": 430,
+        "price": 500
+    },
+    "italian_sausage_marinara": {
+        "stock": 430,
+        "price": 500
+    },
+    "extra_vagan_pizza": {
+        "stock": 430,
+        "price": 500
+    },
+    "citrus_spark": {
+        "stock": 430,
+        "price": 500
+    },
+    "memphis_bbq_chicken": {
+        "stock": 428,
+        "price": 500
+    },
+    "philly_cheese_steak": {
+        "stock": 430,
+        "price": 500
+    }
+}

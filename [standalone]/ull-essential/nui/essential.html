@@ -1,0 +1,99 @@
+<!-- Written by UnLuckyLust ( © Dreams Weaver 2023 ) | Purchase only at https://UnLuckyLust.tebex.io -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ull-essentials</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.1.1/howler.min.js" type="text/javascript"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://s.ytimg.com/yts/jsbin/www-widgetapi-vflJJaNgk/www-widgetapi.js"></script>
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <link rel="stylesheet" href="essential.css" type="text/css">
+    <script type="text/javascript" src="essential.js"></script>
+    <script type="text/javascript" src="game_functions/circle.js"></script>
+    <script type="text/javascript" src="game_functions/numbermaze.js"></script>
+    <script type="text/javascript" src="game_functions/var.js"></script>
+    <script type="text/javascript" src="game_functions/thermite.js"></script>
+    <script type="text/javascript" src="game_functions/scrambler.js"></script>
+</head>
+
+<!-- Configure default style below however you want -->
+<body style="
+    --color: #c00000;
+    --text-color: #d3d3d3;
+    --dark-color: #363636f2;
+    --light-color: #616060b3;
+    --font-size: 22px;
+    --text-font: 'Brush Script MT', cursive;
+
+    /* Minigames Main Colors */
+        --color-good-light: #0bcc0b;
+        --color-good-dark: #007500;
+        --color-bad-light: #ff0008;
+        --color-bad-dark: #9e0005;
+        --color-proper-light: #e7b100;
+        --color-proper-dark: #6b5200;
+
+    /* VarHack Minigame Box Colors */
+        --color-var-1: #FF8C00;
+        --color-var-2: #E26310;
+        --color-var-3: #F5761A;
+        --color-var-4: #FFA836;
+        --color-var-5: #ED9121;
+        --color-var-6: #FF4F00;
+        --color-var-7: #F06105;
+        --color-var-8: #F78702;
+        --color-var-9: #E89611;
+    
+    --network-block-text: Network Access Blocked... Override Required;
+    --remote-required-text: Remote Sequencing Required;
+    --preparing-text: PREPARING INTERFACE...;
+    --connecting-text: CONNECTING TO THE HOST;
+    ">
+
+<!-- Do not touch from here -->
+    <canvas id="circle" height="300" width="300"; visibility: hidden></canvas>
+    <div class="numbermaze-hack">
+        <div class="numbermaze-splash">
+            <div class="fa numbermaze-hacker">&#xf21b;</div>
+            <span class="numbermaze-text"></span>
+        </div>
+        <div class="numbermaze-groups hidden"></div>
+    </div>
+    <div class="var-hack">
+        <div class="var-splash">
+            <div class="fa var-hacker">&#xf21b;</div>
+            <span class="var-text"></span>
+        </div>
+        <div class="var-groups hidden"></div>
+    </div>
+    <div class="thermite">
+        <div class="thermite-splash">
+            <div class="fa thermite-hacker">&#xf21b;</div>
+            <span class="thermite-text"></span>
+        </div>
+        <div class="thermite-groups hidden"></div>
+    </div>
+    <div class="scrambler">
+        <div class="scrambler-splash">
+            <div class="fa scrambler-hacker">&#xf21b;</div>
+            <span class="scrambler-text"></span>
+        </div>
+        <div class="scrambler-hack hidden">
+            <div class="scrambler-find"></div>
+            <div class="scrambler-timer"></div>
+            <div class="scrambler-codes"></div>
+        </div>
+    </div>        
+    <div class="notify_container"></div>
+    <div class="notification template"></div>
+    <script src="https://cdn.jsdelivr.net/npm/@mojs/core@1.7.1/dist/mo.umd.min.js"></script>
+    <script type="text/javascript" src="sound_functions/functions.js"></script>
+    <script type="text/javascript" src="sound_functions/SoundPlayer.js"></script>
+    <script type="text/javascript" src="sound_functions/listener.js"></script>
+</body>
+</html>

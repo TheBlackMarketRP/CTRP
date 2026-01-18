@@ -1,0 +1,130 @@
+:root {
+  --bg-color: #0D1117;
+  --primary-card-bg: rgba(22, 27, 34, 0.8);
+  --secondary-card-bg: rgba(30, 36, 44, 0.85);
+  --border-color: rgba(139, 148, 158, 0.2);
+  --glow-color: rgba(88, 166, 255, 0.5);
+    
+  --accent-color-cyan: #39D3F1;
+  --accent-color-blue: #58A6FF;
+  --accent-color-green: #3FB950;
+  --accent-color-red: #F85149;
+  --accent-color-purple: #BC8EFF;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: scale(0.95); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+@keyframes fadeInDown {
+  from { opacity: 0; transform: translateY(-20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+#ui-container, #prompt-container {
+  animation: fadeIn 0.4s ease-out forwards;
+}
+
+.glass-card {
+  background: var(--primary-card-bg);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border-color);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37), 0 0 15px var(--glow-color);
+  transition: box-shadow 0.3s ease;
+}
+
+.glass-card2 {
+  background: var(--secondary-card-bg);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid var(--border-color);
+  box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+}
+
+.interactive-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px 0 rgba(0, 0, 0, 0.4);
+  border-color: var(--accent-color-blue);
+}
+
+
+.stylish-hr {
+  border: none;
+  height: 1px;
+  background-image: linear-gradient(to right, transparent, var(--accent-color-cyan), transparent);
+}
+
+.progress-bar-inner {
+  background: linear-gradient(90deg, var(--accent-color-cyan), var(--accent-color-blue));
+}
+
+.prompt-overlay {
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.stylish-button {
+  width: 100%;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  transition: all 0.2s ease-in-out;
+  border: 1px solid transparent;
+  color: white;
+}
+
+.stylish-button:hover {
+  transform: scale(1.02);
+  box-shadow: 0 0 15px 0 rgba(255, 255, 255, 0.1);
+}
+
+.buy-button {
+  background: linear-gradient(45deg, var(--accent-color-blue), var(--accent-color-purple));
+  border-color: var(--accent-color-purple);
+}
+
+.sell-button {
+  background: linear-gradient(45deg, var(--accent-color-green), var(--accent-color-cyan));
+  border-color: var(--accent-color-cyan);
+}
+
+.confirm-button {
+  background: linear-gradient(45deg, var(--accent-color-green), #2ea043);
+  border-color: #2ea043;
+}
+
+.cancel-button {
+  background: linear-gradient(45deg, var(--accent-color-red), #da3633);
+  border-color: #da3633;
+}
+
+.stylish-button:disabled, .sell-button:disabled {
+  background: #21262d;
+  border-color: var(--border-color);
+  opacity: 0.6;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 8px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: var(--accent-color-blue);
+}

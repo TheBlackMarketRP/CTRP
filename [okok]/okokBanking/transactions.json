@@ -1,0 +1,2992 @@
+{
+    "EQE28817": [
+        {
+            "date": "2026/01/16 - 17:47:10",
+            "receiver_identifier": "EQE28817",
+            "value": 900000,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Billy Gainz",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/15 - 22:44:42",
+            "receiver_identifier": "EQE28817",
+            "value": 1000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Billy Gainz",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/15 - 22:44:21",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "EQE28817",
+            "sender_name": "Billy Gainz"
+        }
+    ],
+    "STM42149": [
+        {
+            "date": "2026/01/16 - 10:44:51",
+            "receiver_identifier": "bank",
+            "value": 2000000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "STM42149",
+            "sender_name": "Jay Blackout"
+        },
+        {
+            "date": "2026/01/16 - 10:36:57",
+            "receiver_identifier": "bank",
+            "value": 2000000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "STM42149",
+            "sender_name": "Jay Blackout"
+        },
+        {
+            "date": "2026/01/16 - 10:28:06",
+            "receiver_identifier": "STM42149",
+            "value": 2000,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/16 - 02:36:19",
+            "receiver_identifier": "STM42149",
+            "value": 6964,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/16 - 02:36:04",
+            "receiver_identifier": "STM42149",
+            "value": 2000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/15 - 02:07:59",
+            "receiver_identifier": "bank",
+            "value": 1000150,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "STM42149",
+            "sender_name": "Jay Blackout"
+        },
+        {
+            "date": "2026/01/15 - 01:43:18",
+            "receiver_identifier": "bank",
+            "value": 444856,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "STM42149",
+            "sender_name": "Jay Blackout"
+        },
+        {
+            "date": "2026/01/14 - 05:14:43",
+            "receiver_identifier": "STM42149",
+            "value": 4000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/12 - 21:43:44",
+            "receiver_identifier": "STM42149",
+            "value": 2400000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/12 - 08:15:38",
+            "receiver_identifier": "STM42149",
+            "value": 500000,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/12 - 04:25:05",
+            "receiver_identifier": "STM42149",
+            "value": 2000000,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/11 - 23:55:26",
+            "receiver_identifier": "bank",
+            "value": 2000000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "STM42149",
+            "sender_name": "Jay Blackout"
+        },
+        {
+            "date": "2026/01/11 - 07:59:25",
+            "receiver_identifier": "STM42149",
+            "value": 110000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/11 - 07:22:44",
+            "receiver_identifier": "STM42149",
+            "value": 6000000,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/11 - 03:54:41",
+            "receiver_identifier": "bank",
+            "value": 50000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "STM42149",
+            "sender_name": "Jay Blackout"
+        },
+        {
+            "date": "2026/01/10 - 22:13:27",
+            "receiver_identifier": "bank",
+            "value": 300000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "STM42149",
+            "sender_name": "Jay Blackout"
+        },
+        {
+            "date": "2026/01/10 - 21:58:32",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "STM42149",
+            "sender_name": "Jay Blackout"
+        },
+        {
+            "date": "2026/01/10 - 21:57:49",
+            "receiver_identifier": "bank",
+            "value": 300000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "STM42149",
+            "sender_name": "Jay Blackout"
+        },
+        {
+            "date": "2026/01/10 - 04:46:14",
+            "receiver_identifier": "bank",
+            "value": 1315525,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "STM42149",
+            "sender_name": "Jay Blackout"
+        },
+        {
+            "date": "2026/01/08 - 12:45:00",
+            "receiver_identifier": "bank",
+            "value": 150,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "STM42149",
+            "sender_name": "Jay Blackout"
+        },
+        {
+            "date": "2026/01/08 - 12:44:50",
+            "receiver_identifier": "STM42149",
+            "value": 500000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/08 - 12:21:18",
+            "receiver_identifier": "bank",
+            "value": 501174,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "STM42149",
+            "sender_name": "Jay Blackout"
+        },
+        {
+            "date": "2026/01/07 - 13:39:33",
+            "receiver_identifier": "STM42149",
+            "value": 40000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/07 - 13:39:15",
+            "receiver_identifier": "STM42149",
+            "value": 100000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/07 - 13:39:02",
+            "receiver_identifier": "STM42149",
+            "value": 211500,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/07 - 13:38:42",
+            "receiver_identifier": "STM42149",
+            "value": 1950000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/07 - 01:13:55",
+            "receiver_identifier": "bank",
+            "value": 70000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "STM42149",
+            "sender_name": "Jay Blackout"
+        },
+        {
+            "date": "2026/01/07 - 01:13:43",
+            "receiver_identifier": "STM42149",
+            "value": 200000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/06 - 03:37:20",
+            "receiver_identifier": "STM42149",
+            "value": 5000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/06 - 00:38:17",
+            "receiver_identifier": "STM42149",
+            "value": 12000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/05 - 23:38:07",
+            "receiver_identifier": "STM42149",
+            "value": 11000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/05 - 20:39:04",
+            "receiver_identifier": "STM42149",
+            "value": 700000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/05 - 20:38:50",
+            "receiver_identifier": "STM42149",
+            "value": 5000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/03 - 07:39:13",
+            "receiver_identifier": "STM42149",
+            "value": 82000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/03 - 07:38:59",
+            "receiver_identifier": "STM42149",
+            "value": 1800000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/31 - 22:57:33",
+            "receiver_identifier": "bank",
+            "value": 20000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "STM42149",
+            "sender_name": "Jay Blackout"
+        },
+        {
+            "date": "2025/12/31 - 11:19:47",
+            "receiver_identifier": "STM42149",
+            "value": 70,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/31 - 11:19:38",
+            "receiver_identifier": "STM42149",
+            "value": 70000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/31 - 11:19:30",
+            "receiver_identifier": "STM42149",
+            "value": 6000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jay Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/30 - 06:57:58",
+            "receiver_identifier": "bank",
+            "value": 275000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "STM42149",
+            "sender_name": "Jay Blackout"
+        },
+        {
+            "date": "2025/12/29 - 05:00:51",
+            "receiver_identifier": "bank",
+            "value": 20000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "STM42149",
+            "sender_name": "Jay Blackout"
+        }
+    ],
+    "LMD92405": [
+        {
+            "date": "2026/01/12 - 00:14:37",
+            "receiver_identifier": "LMD92405",
+            "value": 125000,
+            "type": "interest_savings",
+            "reason": "Savings account interest payment (Period 2)",
+            "receiver_name": "Savings Account",
+            "sender_identifier": "bank",
+            "sender_name": "Savings Interest"
+        },
+        {
+            "date": "2026/01/08 - 03:47:20",
+            "receiver_identifier": "LMD92405",
+            "value": 860000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Klover Satchin",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/04 - 05:01:07",
+            "receiver_identifier": "LMD92405",
+            "value": 5000000,
+            "type": "deposit_savings",
+            "reason": "Deposit to savings account",
+            "receiver_name": "Klover Satchin",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/04 - 05:01:00",
+            "receiver_identifier": "bank",
+            "value": 5000000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "LMD92405",
+            "sender_name": "Klover Satchin"
+        },
+        {
+            "date": "2026/01/04 - 05:00:23",
+            "receiver_identifier": "LMD92405",
+            "value": 347758,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Klover Satchin",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/04 - 05:00:09",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "LMD92405",
+            "sender_name": "Klover Satchin"
+        }
+    ],
+    "BPS72033": [
+        {
+            "date": "2026/01/11 - 16:05:27",
+            "receiver_identifier": "BPS72033",
+            "value": 5000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Ruger Relly",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/06 - 15:08:44",
+            "receiver_identifier": "BPS72033",
+            "value": 4000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Ruger Relly",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/06 - 14:43:56",
+            "receiver_identifier": "BPS72033",
+            "value": 2000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Ruger Relly",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "CKL57406": [
+        {
+            "date": "2026/01/05 - 03:05:36",
+            "receiver_identifier": "CKL57406",
+            "value": 999963,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Chase  Walker",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/30 - 02:52:03",
+            "receiver_identifier": "bank",
+            "value": 200000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "CKL57406",
+            "sender_name": "Chase  Walker"
+        },
+        {
+            "date": "2025/12/29 - 02:51:33",
+            "receiver_identifier": "bank",
+            "value": 2000,
+            "type": "withdraw",
+            "reason": "Withdraw from card account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "CKL57406",
+            "sender_name": "Chase  Walker"
+        },
+        {
+            "date": "2025/12/29 - 02:50:49",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "CKL57406",
+            "sender_name": "Chase  Walker"
+        },
+        {
+            "date": "2025/12/29 - 02:48:15",
+            "receiver_identifier": "CKL57406",
+            "value": 966139,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Chase  Walker",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "MTO58644": [
+        {
+            "date": "2026/01/03 - 18:11:41",
+            "receiver_identifier": "MTO58644",
+            "value": 2000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "corb corb",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/03 - 18:11:32",
+            "receiver_identifier": "MTO58644",
+            "value": 2000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "corb corb",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/02 - 09:21:03",
+            "receiver_identifier": "MTO58644",
+            "value": 500000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "corb corb",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "QLG29370": [
+        {
+            "date": "2026/01/11 - 03:19:51",
+            "receiver_identifier": "bank",
+            "value": 1000000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "QLG29370",
+            "sender_name": "Mims Smacka"
+        }
+    ],
+    "QLA43467_825611": [
+        {
+            "date": "2026/01/09 - 13:27:46",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "QLA43467_825611",
+            "sender_name": "BMC MECH SHOP"
+        },
+        {
+            "date": "2026/01/02 - 10:19:52",
+            "receiver_identifier": "QLA43467_825611",
+            "value": 9000000,
+            "type": "deposit",
+            "reason": "Deposit to custom account",
+            "receiver_name": "Wettie 400",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "WZS52447": [
+        {
+            "date": "2026/01/16 - 22:29:00",
+            "receiver_identifier": "bank",
+            "value": 1000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "WZS52447",
+            "sender_name": "Jamal Turner"
+        },
+        {
+            "date": "2026/01/15 - 15:01:14",
+            "receiver_identifier": "WZS52447",
+            "value": 400,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jamal Turner",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/11 - 03:45:27",
+            "receiver_identifier": "WZS52447",
+            "value": 700000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jamal Turner",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/11 - 03:45:17",
+            "receiver_identifier": "WZS52447",
+            "value": 300000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jamal Turner",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "KMX51687": [
+        {
+            "date": "2026/01/13 - 04:55:17",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "KMX51687",
+            "sender_name": "Huncho Blackout"
+        },
+        {
+            "date": "2026/01/13 - 04:55:08",
+            "receiver_identifier": "KMX51687",
+            "value": 1000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Huncho Blackout",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "VBD33532": [
+        {
+            "date": "2026/01/05 - 00:39:24",
+            "receiver_identifier": "VBD33532",
+            "value": 1858762,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "fran .",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "OST21140": [
+        {
+            "date": "2026/01/06 - 09:35:47",
+            "receiver_identifier": "OST21140",
+            "value": 807262,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "JAY SMITH",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/03 - 19:52:16",
+            "receiver_identifier": "OST21140",
+            "value": 829049,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "JAY SMITH",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/03 - 01:54:05",
+            "receiver_identifier": "OST21140",
+            "value": 312720,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "JAY SMITH",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/02 - 10:20:05",
+            "receiver_identifier": "OST21140",
+            "value": 1436336,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "JAY SMITH",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/02 - 04:06:23",
+            "receiver_identifier": "OST21140",
+            "value": 1425369,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "JAY SMITH",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/30 - 06:56:36",
+            "receiver_identifier": "bank",
+            "value": 1000,
+            "type": "withdraw",
+            "reason": "Withdraw from card account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "OST21140",
+            "sender_name": "JAY SMITH"
+        },
+        {
+            "date": "2025/12/30 - 06:45:12",
+            "receiver_identifier": "OST21140",
+            "value": 848729,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "JAY SMITH",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/29 - 19:11:41",
+            "receiver_identifier": "OST21140",
+            "value": 2130390,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "JAY SMITH",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/29 - 06:21:51",
+            "receiver_identifier": "bank",
+            "value": 1000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "OST21140",
+            "sender_name": "JAY SMITH"
+        },
+        {
+            "date": "2025/12/29 - 02:05:16",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "OST21140",
+            "sender_name": "JAY SMITH"
+        },
+        {
+            "date": "2025/12/29 - 02:04:08",
+            "receiver_identifier": "OST21140",
+            "value": 1218635,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "JAY SMITH",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "CRT70056": [
+        {
+            "date": "2026/01/17 - 08:05:38",
+            "receiver_identifier": "CRT70056",
+            "reason": "Deposit to card account",
+            "type": "deposit",
+            "receiver_name": "Tariq Creed",
+            "value": 100000,
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/17 - 07:53:52",
+            "receiver_identifier": "CRT70056",
+            "reason": "Deposit to card account",
+            "type": "deposit",
+            "receiver_name": "Tariq Creed",
+            "value": 300000,
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/11 - 20:20:44",
+            "receiver_identifier": "bank",
+            "value": 10000,
+            "type": "withdraw",
+            "reason": "Withdraw from card account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "CRT70056",
+            "sender_name": "Tariq Creed"
+        },
+        {
+            "date": "2026/01/11 - 20:12:31",
+            "receiver_identifier": "CRT70056",
+            "value": 213321,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Tariq Creed",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/10 - 21:58:36",
+            "receiver_identifier": "CRT70056",
+            "value": 37755,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Tariq Creed",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/10 - 19:51:00",
+            "receiver_identifier": "bank",
+            "value": 250000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "CRT70056",
+            "sender_name": "Tariq Creed"
+        },
+        {
+            "date": "2026/01/09 - 23:40:11",
+            "receiver_identifier": "bank",
+            "value": 10000,
+            "type": "withdraw",
+            "reason": "Withdraw from card account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "CRT70056",
+            "sender_name": "Tariq Creed"
+        },
+        {
+            "date": "2026/01/09 - 23:36:53",
+            "receiver_identifier": "CRT70056",
+            "value": 996995,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Tariq Creed",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/09 - 23:36:21",
+            "receiver_identifier": "bank",
+            "receiver_name": "Bank (Card Renewal)",
+            "value": 100,
+            "sender_identifier": "CRT70056",
+            "sender_name": "Tariq Creed"
+        },
+        {
+            "date": "2026/01/05 - 18:50:48",
+            "receiver_identifier": "bank",
+            "value": 50000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "CRT70056",
+            "sender_name": "Tariq Creed"
+        },
+        {
+            "date": "2026/01/05 - 13:49:18",
+            "receiver_identifier": "bank",
+            "value": 10000,
+            "type": "withdraw",
+            "reason": "Withdraw from card account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "CRT70056",
+            "sender_name": "Tariq Creed"
+        },
+        {
+            "date": "2026/01/03 - 23:40:41",
+            "receiver_identifier": "CRT70056",
+            "value": 1458882,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Tariq Creed",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/02 - 06:39:05",
+            "receiver_identifier": "CRT70056",
+            "value": 400000,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Tariq Creed",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/29 - 02:05:10",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "CRT70056",
+            "sender_name": "Tariq Creed"
+        }
+    ],
+    "SCW69390": [
+        {
+            "date": "2026/01/15 - 02:09:32",
+            "receiver_identifier": "SCW69390",
+            "value": 20000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Apollo Creed",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/15 - 02:07:59",
+            "receiver_identifier": "bank",
+            "value": 322175,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "SCW69390",
+            "sender_name": "Apollo Creed"
+        },
+        {
+            "date": "2026/01/12 - 00:14:37",
+            "receiver_identifier": "SCW69390",
+            "value": 12,
+            "type": "interest_savings",
+            "reason": "Savings account interest payment (Period 2)",
+            "receiver_name": "Savings Account",
+            "sender_identifier": "bank",
+            "sender_name": "Savings Interest"
+        },
+        {
+            "date": "2026/01/10 - 21:58:40",
+            "receiver_identifier": "SCW69390",
+            "value": 400000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Apollo Creed",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/10 - 21:58:28",
+            "receiver_identifier": "bank",
+            "receiver_name": "Bank (Card Renewal)",
+            "value": 100,
+            "sender_identifier": "SCW69390",
+            "sender_name": "Apollo Creed"
+        },
+        {
+            "date": "2026/01/04 - 00:14:07",
+            "receiver_identifier": "SCW69390",
+            "value": 9,
+            "type": "interest_savings",
+            "reason": "Savings account interest payment (Period 1)",
+            "receiver_name": "Savings Account",
+            "sender_identifier": "bank",
+            "sender_name": "Savings Interest"
+        },
+        {
+            "date": "2026/01/03 - 04:10:12",
+            "receiver_identifier": "bank",
+            "value": 10000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "SCW69390",
+            "sender_name": "Apollo Creed"
+        },
+        {
+            "date": "2025/12/28 - 23:19:45",
+            "receiver_identifier": "SCW69390",
+            "value": 1000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Apollo Creed",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/28 - 23:19:28",
+            "receiver_identifier": "SCW69390",
+            "value": 1000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Apollo Creed",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/28 - 23:17:55",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "SCW69390",
+            "sender_name": "Apollo Creed"
+        },
+        {
+            "date": "2025/12/28 - 23:17:30",
+            "receiver_identifier": "SCW69390",
+            "value": 500,
+            "type": "deposit_savings",
+            "reason": "Deposit to savings account",
+            "receiver_name": "Apollo Creed",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/28 - 23:16:54",
+            "receiver_identifier": "bank",
+            "value": 500,
+            "type": "account_creation",
+            "reason": "Account creation fee",
+            "receiver_name": "Bank (Account Creation)",
+            "sender_identifier": "SCW69390",
+            "sender_name": "Apollo Creed"
+        }
+    ],
+    "GOX43188": [
+        {
+            "date": "2026/01/14 - 05:40:00",
+            "receiver_identifier": "GOX43188",
+            "value": 3000500,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Astro Nomical",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/13 - 14:17:10",
+            "receiver_identifier": "bank",
+            "value": 4900,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "GOX43188",
+            "sender_name": "Astro Nomical"
+        },
+        {
+            "date": "2026/01/13 - 14:16:55",
+            "receiver_identifier": "bank",
+            "value": 100,
+            "type": "withdraw_savings",
+            "reason": "Withdraw from savings account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "GOX43188",
+            "sender_name": "Astro Nomical"
+        },
+        {
+            "date": "2026/01/13 - 14:16:48",
+            "receiver_identifier": "bank",
+            "value": 100,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Standard Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "GOX43188",
+            "sender_name": "Astro Nomical"
+        },
+        {
+            "date": "2026/01/13 - 14:16:13",
+            "receiver_identifier": "GOX43188",
+            "value": 100,
+            "type": "deposit_savings",
+            "reason": "Deposit to savings account",
+            "receiver_name": "Astro Nomical",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "SFG19606": [
+        {
+            "date": "2026/01/15 - 20:54:17",
+            "receiver_identifier": "bank",
+            "value": 9500,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "SFG19606",
+            "sender_name": "Ghost Doe"
+        }
+    ],
+    "TNQ71087": [
+        {
+            "date": "2026/01/16 - 08:12:50",
+            "receiver_identifier": "TNQ71087",
+            "value": 25000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Lil nacho Trejo ",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/16 - 08:12:41",
+            "receiver_identifier": "TNQ71087",
+            "value": 1002500,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Lil nacho Trejo ",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/16 - 02:02:59",
+            "receiver_identifier": "TNQ71087",
+            "value": 1000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Lil nacho Trejo ",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/16 - 02:02:50",
+            "receiver_identifier": "bank",
+            "value": 400000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "TNQ71087",
+            "sender_name": "Lil nacho Trejo "
+        },
+        {
+            "date": "2026/01/16 - 02:02:39",
+            "receiver_identifier": "TNQ71087",
+            "value": 2000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Lil nacho Trejo ",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/13 - 08:42:51",
+            "receiver_identifier": "bank",
+            "value": 400000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "TNQ71087",
+            "sender_name": "Lil nacho Trejo "
+        },
+        {
+            "date": "2026/01/13 - 08:42:35",
+            "receiver_identifier": "bank",
+            "receiver_name": "Bank (Card Renewal)",
+            "value": 100,
+            "sender_identifier": "TNQ71087",
+            "sender_name": "Lil nacho Trejo "
+        },
+        {
+            "date": "2025/12/30 - 15:34:16",
+            "receiver_identifier": "TNQ71087",
+            "value": 1000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Lil nacho Trejo ",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/30 - 06:58:05",
+            "receiver_identifier": "bank",
+            "value": 200000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "TNQ71087",
+            "sender_name": "Lil nacho Trejo "
+        },
+        {
+            "date": "2025/12/29 - 14:45:16",
+            "receiver_identifier": "TNQ71087",
+            "value": 100000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Lil nacho Trejo ",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/29 - 14:44:58",
+            "receiver_identifier": "TNQ71087",
+            "value": 200000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Lil nacho Trejo ",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/29 - 14:44:48",
+            "receiver_identifier": "TNQ71087",
+            "value": 300000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Lil nacho Trejo ",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/29 - 14:44:38",
+            "receiver_identifier": "TNQ71087",
+            "value": 3000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Lil nacho Trejo ",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/29 - 14:44:25",
+            "receiver_identifier": "TNQ71087",
+            "value": 1,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Lil nacho Trejo ",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/29 - 14:41:01",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "TNQ71087",
+            "sender_name": "Lil nacho Trejo "
+        }
+    ],
+    "CCP95376": [
+        {
+            "date": "2026/01/15 - 00:26:37",
+            "receiver_identifier": "bank",
+            "value": 10000,
+            "type": "withdraw",
+            "reason": "Withdraw from card account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "CCP95376",
+            "sender_name": "Dawayne Gerbo"
+        },
+        {
+            "date": "2026/01/12 - 02:28:56",
+            "receiver_identifier": "CCP95376",
+            "value": 2000000,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Dawayne Gerbo",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/10 - 05:46:39",
+            "receiver_identifier": "CCP95376",
+            "value": 1500000,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Dawayne Gerbo",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/08 - 02:43:29",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "CCP95376",
+            "sender_name": "Dawayne Gerbo"
+        },
+        {
+            "date": "2026/01/08 - 02:43:08",
+            "receiver_identifier": "CCP95376",
+            "value": 300000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Dawayne Gerbo",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "PIM48798": [
+        {
+            "date": "2026/01/17 - 18:47:21",
+            "receiver_identifier": "PIM48798",
+            "value": 500000,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Ramdo  ",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/17 - 16:44:02",
+            "receiver_identifier": "bank",
+            "reason": "Withdraw from bank account",
+            "type": "withdraw",
+            "receiver_name": "Wallet",
+            "value": 1500000,
+            "sender_identifier": "PIM48798",
+            "sender_name": "Ramdo  "
+        },
+        {
+            "date": "2026/01/10 - 21:02:17",
+            "receiver_identifier": "PIM48798",
+            "value": 300000,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Ramdo  ",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/09 - 23:55:20",
+            "receiver_identifier": "PIM48798",
+            "value": 1500000,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Ramdo  ",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/09 - 18:50:22",
+            "receiver_identifier": "PIM48798",
+            "value": 20000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Ramdo  ",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/09 - 16:48:32",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "PIM48798",
+            "sender_name": "Ramdo  "
+        },
+        {
+            "date": "2026/01/09 - 16:48:24",
+            "receiver_identifier": "PIM48798",
+            "value": 10000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Ramdo  ",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/09 - 16:11:29",
+            "receiver_identifier": "bank",
+            "value": 415516,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "PIM48798",
+            "sender_name": "Ramdo  "
+        }
+    ],
+    "UVM11154": [
+        {
+            "date": "2026/01/09 - 03:03:56",
+            "receiver_identifier": "UVM11154",
+            "value": 1000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Bernie Clark",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/05 - 20:48:46",
+            "receiver_identifier": "UVM11154",
+            "value": 119000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Bernie Clark",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/05 - 19:57:24",
+            "receiver_identifier": "UVM11154",
+            "value": 173817,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Bernie Clark",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/05 - 04:43:35",
+            "receiver_identifier": "UVM11154",
+            "value": 1500000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Bernie Clark",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "bestbuds": [
+        {
+            "date": "2026/01/08 - 04:50:09",
+            "receiver_identifier": "bank",
+            "receiver_name": "Bank (Card Renewal)",
+            "value": 100,
+            "sender_identifier": "bestbuds",
+            "sender_name": "Best Buds"
+        },
+        {
+            "date": "2025/12/29 - 14:46:29",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "bestbuds",
+            "sender_name": "Best Buds"
+        },
+        {
+            "date": "2025/12/29 - 14:46:18",
+            "receiver_identifier": "bestbuds",
+            "value": 50000,
+            "type": "deposit",
+            "reason": "Deposit to business account",
+            "receiver_name": "bestbuds",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "TYS47146": [
+        {
+            "date": "2026/01/13 - 05:23:11",
+            "receiver_identifier": "TYS47146",
+            "value": 1500000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Cee Murda",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "OVM79403": [
+        {
+            "date": "2026/01/18 - 20:27:46",
+            "reason": "Deposit to bank account",
+            "value": 1000000,
+            "type": "deposit",
+            "receiver_name": "Yakub Ozmen",
+            "receiver_identifier": "OVM79403",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/13 - 14:26:51",
+            "receiver_identifier": "OVM79403",
+            "value": 1000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Yakub Ozmen",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/12 - 21:20:08",
+            "receiver_identifier": "OVM79403",
+            "value": 6000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Yakub Ozmen",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/12 - 21:19:56",
+            "receiver_identifier": "OVM79403",
+            "value": 370000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Yakub Ozmen",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/11 - 22:52:52",
+            "receiver_identifier": "OVM79403",
+            "value": 333000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Yakub Ozmen",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/11 - 14:52:57",
+            "receiver_identifier": "OVM79403",
+            "value": 317000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Yakub Ozmen",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/11 - 04:06:34",
+            "receiver_identifier": "OVM79403",
+            "value": 300000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Yakub Ozmen",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/11 - 03:57:51",
+            "receiver_identifier": "OVM79403",
+            "value": 308000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Yakub Ozmen",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/10 - 16:27:28",
+            "receiver_identifier": "bank",
+            "value": 500,
+            "type": "withdraw",
+            "reason": "Withdraw from card account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "OVM79403",
+            "sender_name": "Yakub Ozmen"
+        },
+        {
+            "date": "2026/01/10 - 15:58:41",
+            "receiver_identifier": "bank",
+            "value": 500,
+            "type": "withdraw",
+            "reason": "Withdraw from card account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "OVM79403",
+            "sender_name": "Yakub Ozmen"
+        },
+        {
+            "date": "2026/01/10 - 15:57:28",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "OVM79403",
+            "sender_name": "Yakub Ozmen"
+        },
+        {
+            "date": "2026/01/10 - 15:53:02",
+            "receiver_identifier": "OVM79403",
+            "value": 133900,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Yakub Ozmen",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "AVN98584": [
+        {
+            "date": "2025/12/30 - 07:36:00",
+            "receiver_identifier": "AVN98584",
+            "value": 1000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jack Meoff",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "KKS53260": [
+        {
+            "date": "2026/01/06 - 01:55:23",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "KKS53260",
+            "sender_name": "Lil Bro"
+        }
+    ],
+    "BKJ66441": [
+        {
+            "date": "2026/01/02 - 16:56:26",
+            "receiver_identifier": "BKJ66441",
+            "value": 40000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "LIL MOLLY JACKSON",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/02 - 16:56:11",
+            "receiver_identifier": "BKJ66441",
+            "value": 2000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "LIL MOLLY JACKSON",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/30 - 20:29:59",
+            "receiver_identifier": "BKJ66441",
+            "value": 2000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "LIL MOLLY JACKSON",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "TSF80117": [
+        {
+            "date": "2025/12/31 - 22:22:14",
+            "receiver_identifier": "TSF80117",
+            "value": 300000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Rich  Johnson",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "DKL66991": [
+        {
+            "date": "2026/01/02 - 02:36:30",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "DKL66991",
+            "sender_name": "Zay Moore"
+        },
+        {
+            "date": "2025/12/29 - 12:32:41",
+            "receiver_identifier": "bank",
+            "value": 5000000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "DKL66991",
+            "sender_name": "Zay Moore"
+        }
+    ],
+    "DPP35655": [
+        {
+            "date": "2026/01/15 - 04:31:13",
+            "receiver_identifier": "bank",
+            "value": 2000000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "DPP35655",
+            "sender_name": "LUKA TIM"
+        },
+        {
+            "date": "2026/01/14 - 05:34:15",
+            "receiver_identifier": "bank",
+            "value": 3000000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "DPP35655",
+            "sender_name": "LUKA TIM"
+        },
+        {
+            "date": "2026/01/10 - 02:13:00",
+            "receiver_identifier": "bank",
+            "value": 10000000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "DPP35655",
+            "sender_name": "LUKA TIM"
+        },
+        {
+            "date": "2025/12/29 - 03:18:35",
+            "receiver_identifier": "bank",
+            "value": 2000000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "DPP35655",
+            "sender_name": "LUKA TIM"
+        },
+        {
+            "date": "2025/12/29 - 01:28:57",
+            "receiver_identifier": "bank",
+            "value": 200000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "DPP35655",
+            "sender_name": "LUKA TIM"
+        }
+    ],
+    "CLY06636": [
+        {
+            "date": "2026/01/16 - 06:18:48",
+            "receiver_identifier": "CLY06636",
+            "value": 500500,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jerry Smith",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "KHH51745": [
+        {
+            "date": "2026/01/01 - 22:00:06",
+            "receiver_identifier": "KHH51745",
+            "value": 1000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "BIG ZAV",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/30 - 23:52:06",
+            "receiver_identifier": "KHH51745",
+            "value": 240000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "BIG ZAV",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/30 - 23:42:22",
+            "receiver_identifier": "KHH51745",
+            "value": 1300000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "BIG ZAV",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/30 - 22:32:26",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "KHH51745",
+            "sender_name": "BIG ZAV"
+        },
+        {
+            "date": "2025/12/30 - 22:31:29",
+            "receiver_identifier": "KHH51745",
+            "value": 170000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "BIG ZAV",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/29 - 23:19:32",
+            "receiver_identifier": "KHH51745",
+            "value": 550000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "BIG ZAV",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "PXJ54463": [
+        {
+            "date": "2026/01/14 - 03:02:04",
+            "receiver_identifier": "bank",
+            "value": 10000,
+            "type": "withdraw",
+            "reason": "Withdraw from card account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "PXJ54463",
+            "sender_name": "Ape Ghost"
+        },
+        {
+            "date": "2026/01/11 - 21:08:49",
+            "receiver_identifier": "PXJ54463",
+            "value": 2390000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Ape Ghost",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/11 - 21:08:16",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "PXJ54463",
+            "sender_name": "Ape Ghost"
+        },
+        {
+            "date": "2026/01/06 - 23:47:47",
+            "receiver_identifier": "bank",
+            "value": 100,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "PXJ54463",
+            "sender_name": "Ape Ghost"
+        }
+    ],
+    "AVP71555": [
+        {
+            "date": "2026/01/04 - 18:57:51",
+            "receiver_identifier": "AVP71555",
+            "value": 10100000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Kael Dev",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/04 - 18:20:26",
+            "receiver_identifier": "ambulance",
+            "value": 550,
+            "type": "bill_payment",
+            "reason": "Paid bill: Ambulance Ride",
+            "receiver_name": "EMS",
+            "sender_identifier": "AVP71555",
+            "sender_name": "Kael Dev"
+        },
+        {
+            "date": "2026/01/04 - 18:10:28",
+            "receiver_identifier": "bank",
+            "value": 6500,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "AVP71555",
+            "sender_name": "Kael Dev"
+        },
+        {
+            "date": "2026/01/04 - 18:10:23",
+            "receiver_identifier": "bank",
+            "value": 1841003,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "AVP71555",
+            "sender_name": "Kael Dev"
+        },
+        {
+            "date": "2026/01/04 - 17:52:52",
+            "receiver_identifier": "bank",
+            "value": 500,
+            "type": "account_creation",
+            "reason": "Account creation fee",
+            "receiver_name": "Bank (Account Creation)",
+            "sender_identifier": "AVP71555",
+            "sender_name": "Kael Dev"
+        }
+    ],
+    "ROU20513": [
+        {
+            "date": "2026/01/13 - 00:36:39",
+            "receiver_identifier": "bank",
+            "receiver_name": "Bank (Card Renewal)",
+            "value": 100,
+            "sender_identifier": "ROU20513",
+            "sender_name": "Misery Exe"
+        },
+        {
+            "date": "2026/01/02 - 00:34:48",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "ROU20513",
+            "sender_name": "Misery Exe"
+        }
+    ],
+    "DWX43137": [
+        {
+            "date": "2026/01/10 - 06:22:33",
+            "receiver_identifier": "DWX43137",
+            "value": 2000000,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Mg Screw",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/10 - 06:22:10",
+            "receiver_identifier": "bank",
+            "receiver_name": "Bank (Card Renewal)",
+            "value": 100,
+            "sender_identifier": "DWX43137",
+            "sender_name": "Mg Screw"
+        },
+        {
+            "date": "2026/01/06 - 21:23:59",
+            "receiver_identifier": "DWX43137",
+            "value": 8559782,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Mg Screw",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/31 - 13:45:33",
+            "receiver_identifier": "DWX43137",
+            "value": 4000000,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Mg Screw",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/31 - 11:18:11",
+            "receiver_identifier": "bank",
+            "value": 200000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "DWX43137",
+            "sender_name": "Mg Screw"
+        },
+        {
+            "date": "2025/12/31 - 10:46:55",
+            "receiver_identifier": "bank",
+            "value": 6000000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "DWX43137",
+            "sender_name": "Mg Screw"
+        },
+        {
+            "date": "2025/12/31 - 09:17:33",
+            "receiver_identifier": "bank",
+            "value": 500000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "DWX43137",
+            "sender_name": "Mg Screw"
+        },
+        {
+            "date": "2025/12/31 - 09:17:15",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "DWX43137",
+            "sender_name": "Mg Screw"
+        },
+        {
+            "date": "2025/12/30 - 23:42:50",
+            "receiver_identifier": "DWX43137",
+            "value": 3500000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Mg Screw",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "PGH36610": [
+        {
+            "date": "2026/01/13 - 20:46:49",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "PGH36610",
+            "sender_name": "Crshout Wackem"
+        },
+        {
+            "date": "2026/01/13 - 20:46:15",
+            "receiver_identifier": "PGH36610",
+            "value": 650000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Crshout Wackem",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "KHJ62945": [
+        {
+            "date": "2026/01/11 - 09:40:51",
+            "receiver_identifier": "bank",
+            "receiver_name": "Bank (Card Renewal)",
+            "value": 100,
+            "sender_identifier": "KHJ62945",
+            "sender_name": "Ralo Splatt"
+        },
+        {
+            "date": "2026/01/01 - 07:40:44",
+            "receiver_identifier": "KHJ62945",
+            "value": 10000,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Ralo Splatt",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/01 - 07:40:38",
+            "receiver_identifier": "KHJ62945",
+            "value": 10000,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Ralo Splatt",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/01 - 07:38:28",
+            "receiver_identifier": "KHJ62945",
+            "value": 100000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Ralo Splatt",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/01 - 07:37:55",
+            "receiver_identifier": "KHJ62945",
+            "value": 100000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Ralo Splatt",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/01 - 07:36:35",
+            "receiver_identifier": "KHJ62945",
+            "value": 500000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Ralo Splatt",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/01 - 07:36:28",
+            "receiver_identifier": "KHJ62945",
+            "value": 100000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Ralo Splatt",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/01 - 07:36:22",
+            "receiver_identifier": "KHJ62945",
+            "value": 20000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Ralo Splatt",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/01 - 07:36:16",
+            "receiver_identifier": "KHJ62945",
+            "value": 10000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Ralo Splatt",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/01 - 07:36:08",
+            "receiver_identifier": "KHJ62945",
+            "value": 10000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Ralo Splatt",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/01 - 07:35:38",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "KHJ62945",
+            "sender_name": "Ralo Splatt"
+        }
+    ],
+    "TXF26981": [
+        {
+            "date": "2026/01/06 - 21:05:17",
+            "receiver_identifier": "bank",
+            "value": 42193295,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "TXF26981",
+            "sender_name": "Jay Goonie"
+        },
+        {
+            "date": "2026/01/01 - 08:19:13",
+            "receiver_identifier": "TXF26981",
+            "value": 1000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Jay Goonie",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "EZP78561": [
+        {
+            "date": "2026/01/10 - 13:12:36",
+            "receiver_identifier": "bank",
+            "value": 200000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "EZP78561",
+            "sender_name": "Dc Sweep"
+        },
+        {
+            "date": "2026/01/10 - 13:12:21",
+            "receiver_identifier": "EZP78561",
+            "value": 3600000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Dc Sweep",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/05 - 23:27:31",
+            "receiver_identifier": "bank",
+            "value": 300000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "EZP78561",
+            "sender_name": "Dc Sweep"
+        },
+        {
+            "date": "2026/01/05 - 20:46:11",
+            "receiver_identifier": "EZP78561",
+            "value": 2311358,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Dc Sweep",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/05 - 00:55:11",
+            "receiver_identifier": "EZP78561",
+            "value": 500000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Dc Sweep",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/05 - 00:54:57",
+            "receiver_identifier": "bank",
+            "value": 1900000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "EZP78561",
+            "sender_name": "Dc Sweep"
+        }
+    ],
+    "LKD92763": [
+        {
+            "date": "2026/01/12 - 10:11:31",
+            "receiver_identifier": "bank",
+            "value": 6000000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "LKD92763",
+            "sender_name": "MERYS DADDY"
+        },
+        {
+            "date": "2026/01/03 - 12:10:47",
+            "receiver_identifier": "bank",
+            "value": 10000000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "LKD92763",
+            "sender_name": "MERYS DADDY"
+        }
+    ],
+    "EFA67959": [
+        {
+            "date": "2026/01/14 - 05:14:42",
+            "receiver_identifier": "EFA67959",
+            "value": 1584277,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Sliime Outtrey",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/12 - 03:41:01",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "EFA67959",
+            "sender_name": "Sliime Outtrey"
+        },
+        {
+            "date": "2026/01/11 - 11:13:03",
+            "receiver_identifier": "EFA67959",
+            "value": 40000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Sliime Outtrey",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/11 - 11:12:55",
+            "receiver_identifier": "EFA67959",
+            "value": 1000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Sliime Outtrey",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/03 - 07:40:16",
+            "receiver_identifier": "EFA67959",
+            "value": 137000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Sliime Outtrey",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/03 - 07:39:21",
+            "receiver_identifier": "EFA67959",
+            "value": 775000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Sliime Outtrey",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/01 - 05:21:34",
+            "receiver_identifier": "EFA67959",
+            "value": 1025750,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Sliime Outtrey",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/31 - 04:53:05",
+            "receiver_identifier": "EFA67959",
+            "value": 958000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Sliime Outtrey",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "QLA43467": [
+        {
+            "date": "2026/01/14 - 19:51:40",
+            "receiver_identifier": "bank",
+            "value": 2580000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "QLA43467",
+            "sender_name": "Wettie 400"
+        },
+        {
+            "date": "2026/01/12 - 19:20:24",
+            "receiver_identifier": "bank",
+            "value": 100000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "QLA43467",
+            "sender_name": "Wettie 400"
+        },
+        {
+            "date": "2026/01/10 - 23:22:57",
+            "receiver_identifier": "QLA43467",
+            "value": 2000000,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Wettie 400",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/09 - 13:28:11",
+            "receiver_identifier": "bank",
+            "value": 2000000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "QLA43467",
+            "sender_name": "Wettie 400"
+        },
+        {
+            "date": "2026/01/09 - 13:27:20",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "QLA43467",
+            "sender_name": "Wettie 400"
+        },
+        {
+            "date": "2026/01/04 - 18:22:20",
+            "receiver_identifier": "police",
+            "value": 550,
+            "type": "bill_payment",
+            "reason": "Paid bill: High Speed",
+            "receiver_name": "Law Enforcement",
+            "sender_identifier": "QLA43467",
+            "sender_name": "Wettie 400"
+        },
+        {
+            "date": "2026/01/02 - 10:19:06",
+            "receiver_identifier": "bank",
+            "value": 500,
+            "type": "account_creation",
+            "reason": "Account creation fee",
+            "receiver_name": "Bank (Account Creation)",
+            "sender_identifier": "QLA43467",
+            "sender_name": "Wettie 400"
+        },
+        {
+            "date": "2025/12/31 - 17:12:52",
+            "receiver_identifier": "bank",
+            "value": 10000000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "QLA43467",
+            "sender_name": "Wettie 400"
+        }
+    ],
+    "MKS36164": [
+        {
+            "date": "2026/01/05 - 05:28:50",
+            "receiver_identifier": "MKS36164",
+            "value": 500000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "mari owner",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/05 - 05:28:37",
+            "receiver_identifier": "bank",
+            "value": 500000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "MKS36164",
+            "sender_name": "mari owner"
+        },
+        {
+            "date": "2026/01/05 - 05:28:25",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "MKS36164",
+            "sender_name": "mari owner"
+        }
+    ],
+    "JGI64632": [
+        {
+            "date": "2025/12/29 - 14:16:41",
+            "receiver_identifier": "bank",
+            "value": 177721,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "JGI64632",
+            "sender_name": "Juju Trejo"
+        },
+        {
+            "date": "2025/12/29 - 13:17:15",
+            "receiver_identifier": "bank",
+            "value": 3596960,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "JGI64632",
+            "sender_name": "Juju Trejo"
+        }
+    ],
+    "SNQ35755": [
+        {
+            "date": "2026/01/15 - 23:11:51",
+            "receiver_identifier": "SNQ35755",
+            "value": 2000000,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Lev Jr",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/15 - 23:11:37",
+            "receiver_identifier": "bank",
+            "receiver_name": "Bank (Card Renewal)",
+            "value": 100,
+            "sender_identifier": "SNQ35755",
+            "sender_name": "Lev Jr"
+        },
+        {
+            "date": "2026/01/14 - 06:55:55",
+            "receiver_identifier": "SNQ35755",
+            "value": 650000,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Lev Jr",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/08 - 21:28:36",
+            "receiver_identifier": "SNQ35755",
+            "value": 187000,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Lev Jr",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/06 - 02:57:15",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "SNQ35755",
+            "sender_name": "Lev Jr"
+        },
+        {
+            "date": "2026/01/06 - 02:49:11",
+            "receiver_identifier": "bank",
+            "value": 25000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "SNQ35755",
+            "sender_name": "Lev Jr"
+        },
+        {
+            "date": "2026/01/06 - 01:01:54",
+            "receiver_identifier": "SNQ35755",
+            "value": 154000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Lev Jr",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/06 - 00:45:12",
+            "receiver_identifier": "bank",
+            "value": 15000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "SNQ35755",
+            "sender_name": "Lev Jr"
+        }
+    ],
+    "XFT11083": [
+        {
+            "date": "2026/01/07 - 04:29:20",
+            "receiver_identifier": "bank",
+            "value": 1000000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "XFT11083",
+            "sender_name": "Poe Bankz"
+        },
+        {
+            "date": "2026/01/06 - 09:40:16",
+            "receiver_identifier": "XFT11083",
+            "value": 1388193,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Poe Bankz",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/05 - 08:18:05",
+            "receiver_identifier": "bank",
+            "value": 500000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "XFT11083",
+            "sender_name": "Poe Bankz"
+        },
+        {
+            "date": "2026/01/04 - 08:42:43",
+            "receiver_identifier": "XFT11083",
+            "value": 225000,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Poe Bankz",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/04 - 08:42:32",
+            "receiver_identifier": "XFT11083",
+            "value": 1000000,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": "Poe Bankz",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/04 - 05:36:14",
+            "receiver_identifier": "XFT11083",
+            "value": 142674,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Poe Bankz",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/04 - 05:36:04",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "XFT11083",
+            "sender_name": "Poe Bankz"
+        },
+        {
+            "date": "2026/01/03 - 04:41:15",
+            "receiver_identifier": "XFT11083",
+            "value": 800000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Poe Bankz",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/31 - 02:11:08",
+            "receiver_identifier": "bank",
+            "value": 100000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "XFT11083",
+            "sender_name": "Poe Bankz"
+        },
+        {
+            "date": "2025/12/31 - 02:02:09",
+            "receiver_identifier": "XFT11083",
+            "value": 1471106,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Poe Bankz",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/30 - 12:54:50",
+            "receiver_identifier": "XFT11083",
+            "value": 1000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Poe Bankz",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "LIC74662": [
+        {
+            "date": "2026/01/16 - 17:34:10",
+            "receiver_identifier": "bank",
+            "value": 5000000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "LIC74662",
+            "sender_name": "Mercy  Mercy"
+        },
+        {
+            "date": "2026/01/16 - 17:34:04",
+            "receiver_identifier": "bank",
+            "value": 11000000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "LIC74662",
+            "sender_name": "Mercy  Mercy"
+        },
+        {
+            "date": "2026/01/08 - 04:50:09",
+            "receiver_identifier": "bank",
+            "receiver_name": "Bank (Card Renewal)",
+            "value": 100,
+            "sender_identifier": "LIC74662",
+            "sender_name": "Mercy  Mercy"
+        },
+        {
+            "date": "2025/12/29 - 14:44:00",
+            "receiver_identifier": "bank",
+            "value": 3700000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "LIC74662",
+            "sender_name": "Mercy  Mercy"
+        },
+        {
+            "date": "2025/12/29 - 14:43:45",
+            "receiver_identifier": "LIC74662",
+            "value": 3700000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Mercy  Mercy",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/29 - 14:41:50",
+            "receiver_identifier": "LIC74662",
+            "value": 958000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Mercy  Mercy",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/29 - 14:41:37",
+            "receiver_identifier": "LIC74662",
+            "value": 10000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "Mercy  Mercy",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/28 - 15:41:11",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "LIC74662",
+            "sender_name": "Mercy  Mercy"
+        }
+    ],
+    "VUG61622": [
+        {
+            "date": "2026/01/16 - 19:16:42",
+            "receiver_identifier": "VUG61622",
+            "value": 400000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "ELKUSH FOEHUNNID",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/14 - 21:30:46",
+            "receiver_identifier": "VUG61622",
+            "value": 100000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "ELKUSH FOEHUNNID",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/14 - 21:30:27",
+            "receiver_identifier": "VUG61622",
+            "value": 500000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "ELKUSH FOEHUNNID",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/14 - 21:30:20",
+            "receiver_identifier": "VUG61622",
+            "value": 2000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "ELKUSH FOEHUNNID",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/14 - 15:35:20",
+            "receiver_identifier": "VUG61622",
+            "value": 50000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "ELKUSH FOEHUNNID",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/14 - 15:35:03",
+            "receiver_identifier": "VUG61622",
+            "value": 1000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "ELKUSH FOEHUNNID",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/08 - 22:41:04",
+            "receiver_identifier": "VUG61622",
+            "value": 900000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "ELKUSH FOEHUNNID",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/07 - 19:35:04",
+            "receiver_identifier": "VUG61622",
+            "value": 950000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "ELKUSH FOEHUNNID",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/02 - 10:18:33",
+            "receiver_identifier": "VUG61622",
+            "value": 850000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": "ELKUSH FOEHUNNID",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        }
+    ],
+    "LLT44892": [
+        {
+            "date": "2026/01/12 - 02:12:50",
+            "receiver_identifier": "LLT44892",
+            "value": 4500464,
+            "type": "deposit",
+            "reason": "Deposit to card account",
+            "receiver_name": " g   M   F   j   a   k   e ",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/06 - 21:24:18",
+            "receiver_identifier": "LLT44892",
+            "value": 10048881,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": " g   M   F   j   a   k   e ",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/05 - 10:07:30",
+            "receiver_identifier": "LLT44892",
+            "value": 1596660,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": " g   M   F   j   a   k   e ",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/05 - 09:45:52",
+            "receiver_identifier": "LLT44892",
+            "value": 822242,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": " g   M   F   j   a   k   e ",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/05 - 09:45:03",
+            "receiver_identifier": "bank",
+            "value": 300,
+            "type": "card_purchase",
+            "reason": "Card Purchase: Gold Card",
+            "receiver_name": "Bank (Card Purchase)",
+            "sender_identifier": "LLT44892",
+            "sender_name": " g   M   F   j   a   k   e "
+        },
+        {
+            "date": "2026/01/03 - 04:51:53",
+            "receiver_identifier": "LLT44892",
+            "value": 1970264,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": " g   M   F   j   a   k   e ",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2026/01/02 - 09:47:02",
+            "receiver_identifier": "LLT44892",
+            "value": 1141271,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": " g   M   F   j   a   k   e ",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/30 - 05:05:55",
+            "receiver_identifier": "LLT44892",
+            "value": 1000000,
+            "type": "deposit",
+            "reason": "Deposit to bank account",
+            "receiver_name": " g   M   F   j   a   k   e ",
+            "sender_identifier": "bank",
+            "sender_name": "Wallet"
+        },
+        {
+            "date": "2025/12/29 - 01:27:53",
+            "receiver_identifier": "bank",
+            "value": 1000000,
+            "type": "withdraw",
+            "reason": "Withdraw from bank account",
+            "receiver_name": "Wallet",
+            "sender_identifier": "LLT44892",
+            "sender_name": " g   M   F   j   a   k   e "
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+['drugtestkit'] = {['name'] = 'drugtestkit', ['label'] = 'Drug Testkit', ['weight'] = 100, ['type'] = 'item', ['image'] = 'drugtestkit.png', ['unique'] = false, ['useable'] = false, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'Your description here'},

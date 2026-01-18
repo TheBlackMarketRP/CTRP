@@ -1,0 +1,118 @@
+{
+    "covgari_gold": {
+        "stock": 430,
+        "price": 500
+    },
+    "crowex_black": {
+        "stock": 430,
+        "price": 500
+    },
+    "chain_dogtag": {
+        "stock": 430,
+        "price": 500
+    },
+    "chain_medal": {
+        "stock": 430,
+        "price": 500
+    },
+    "pendulus_platinum": {
+        "stock": 430,
+        "price": 500
+    },
+    "chain_richman": {
+        "stock": 430,
+        "price": 500
+    },
+    "goldhex_earrings": {
+        "stock": 430,
+        "price": 500
+    },
+    "goldstone_earrings": {
+        "stock": 430,
+        "price": 500
+    },
+    "chain_ls": {
+        "stock": 430,
+        "price": 500
+    },
+    "rectdia_earrings": {
+        "stock": 430,
+        "price": 500
+    },
+    "casino_earrings": {
+        "stock": 430,
+        "price": 500
+    },
+    "necklace_dogtag": {
+        "stock": 430,
+        "price": 500
+    },
+    "platbox_earrings": {
+        "stock": 430,
+        "price": 500
+    },
+    "chain_triangle": {
+        "stock": 430,
+        "price": 500
+    },
+    "kronos_gold": {
+        "stock": 430,
+        "price": 500
+    },
+    "goldak_earrings": {
+        "stock": 430,
+        "price": 500
+    },
+    "skull_earrings": {
+        "stock": 430,
+        "price": 500
+    },
+    "chain_is": {
+        "stock": 430,
+        "price": 500
+    },
+    "necklace_family": {
+        "stock": 430,
+        "price": 500
+    },
+    "skull_bracelet": {
+        "stock": 430,
+        "price": 500
+    },
+    "diagold_earrings": {
+        "stock": 430,
+        "price": 500
+    },
+    "hexdia_earrings": {
+        "stock": 430,
+        "price": 500
+    },
+    "karaoke_earrings": {
+        "stock": 430,
+        "price": 500
+    },
+    "hex_gold": {
+        "stock": 430,
+        "price": 500
+    },
+    "earrings_sgold": {
+        "stock": 430,
+        "price": 500
+    },
+    "diaplatinum_earrings": {
+        "stock": 430,
+        "price": 500
+    },
+    "crowex_brown": {
+        "stock": 430,
+        "price": 500
+    },
+    "hex4you_earrings": {
+        "stock": 430,
+        "price": 500
+    },
+    "kronos_black": {
+        "stock": 430,
+        "price": 500
+    }
+}

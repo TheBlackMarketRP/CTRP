@@ -1,0 +1,74 @@
+{
+    "bacon_egg_cheese": {
+        "stock": 430,
+        "price": 500
+    },
+    "shrimp_and_grits": {
+        "stock": 430,
+        "price": 500
+    },
+    "red_wine_sangria": {
+        "stock": 430,
+        "price": 500
+    },
+    "mimosa": {
+        "stock": 430,
+        "price": 500
+    },
+    "strawberry_banana_crepes": {
+        "stock": 430,
+        "price": 500
+    },
+    "water": {
+        "stock": 430,
+        "price": 500
+    },
+    "roseymary_gin_fizz": {
+        "stock": 430,
+        "price": 500
+    },
+    "latte": {
+        "stock": 430,
+        "price": 500
+    },
+    "pomegranate_mimosa": {
+        "stock": 430,
+        "price": 500
+    },
+    "sangria_lemonade": {
+        "stock": 430,
+        "price": 500
+    },
+    "breakfast_meal": {
+        "stock": 430,
+        "price": 500
+    },
+    "strawberry_nutella_waffles": {
+        "stock": 430,
+        "price": 500
+    },
+    "sweat_tea_sangria": {
+        "stock": 430,
+        "price": 500
+    },
+    "omlet": {
+        "stock": 430,
+        "price": 500
+    },
+    "chicken_and_waffles": {
+        "stock": 430,
+        "price": 500
+    },
+    "biscuits_gravy": {
+        "stock": 430,
+        "price": 500
+    },
+    "hot_chicken_wrap": {
+        "stock": 430,
+        "price": 500
+    },
+    "vodka_tonic": {
+        "stock": 430,
+        "price": 500
+    }
+}

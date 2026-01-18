@@ -1,0 +1,27 @@
+{
+    "Brinjal": {
+        "field": "seed_brinjal",
+        "available": 0,
+        "capacity": 100
+    },
+    "Cucumber": {
+        "field": "seed_cucumber",
+        "available": 0,
+        "capacity": 100
+    },
+    "Tomatoo": {
+        "field": "seed_tomatoo",
+        "available": 1,
+        "capacity": 100
+    },
+    "Potato": {
+        "field": "seed_potato",
+        "available": 8,
+        "capacity": 100
+    },
+    "Rice": {
+        "field": "seed_rice",
+        "available": 0,
+        "capacity": 100
+    }
+}

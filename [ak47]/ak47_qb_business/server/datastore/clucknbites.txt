@@ -1,0 +1,194 @@
+{
+    "greek_yogurt_parfait": {
+        "stock": 430,
+        "price": 500
+    },
+    "mini_chicken_bites": {
+        "stock": 430,
+        "price": 500
+    },
+    "crispy_kale_salad": {
+        "stock": 430,
+        "price": 500
+    },
+    "hash_browns": {
+        "stock": 429,
+        "price": 500
+    },
+    "chocolate_milk": {
+        "stock": 430,
+        "price": 500
+    },
+    "brown_scramble_burrito": {
+        "stock": 430,
+        "price": 500
+    },
+    "chicken_noodle_soup": {
+        "stock": 430,
+        "price": 500
+    },
+    "cobb_salad": {
+        "stock": 430,
+        "price": 500
+    },
+    "strawberry_milkshake": {
+        "stock": 430,
+        "price": 500
+    },
+    "chicken_club_sandwich": {
+        "stock": 430,
+        "price": 500
+    },
+    "chicken_biscuit": {
+        "stock": 430,
+        "price": 500
+    },
+    "side_salad": {
+        "stock": 430,
+        "price": 500
+    },
+    "egg_cheese_muffin": {
+        "stock": 430,
+        "price": 500
+    },
+    "chicken_sandwich": {
+        "stock": 430,
+        "price": 500
+    },
+    "grilled_egg_white_delight": {
+        "stock": 430,
+        "price": 500
+    },
+    "english_muffin": {
+        "stock": 429,
+        "price": 500
+    },
+    "waffle_potato_chips": {
+        "stock": 430,
+        "price": 500
+    },
+    "sausage_egg_cheese": {
+        "stock": 430,
+        "price": 500
+    },
+    "fresh_harvest_salad": {
+        "stock": 430,
+        "price": 500
+    },
+    "vanilla_dream_cup": {
+        "stock": 430,
+        "price": 500
+    },
+    "cookies_cream_milkshake": {
+        "stock": 430,
+        "price": 500
+    },
+    "sweet_tea": {
+        "stock": 430,
+        "price": 500
+    },
+    "fruit_cup": {
+        "stock": 430,
+        "price": 500
+    },
+    "crispy_chicken_bites": {
+        "stock": 430,
+        "price": 500
+    },
+    "deluxe_sandwich": {
+        "stock": 430,
+        "price": 500
+    },
+    "peach_milkshake": {
+        "stock": 430,
+        "price": 500
+    },
+    "apple_juice": {
+        "stock": 430,
+        "price": 500
+    },
+    "buttered_biscuit": {
+        "stock": 430,
+        "price": 500
+    },
+    "vanilla_milkshake": {
+        "stock": 430,
+        "price": 500
+    },
+    "fresh_citrus_delight": {
+        "stock": 430,
+        "price": 500
+    },
+    "mac_cheese": {
+        "stock": 430,
+        "price": 500
+    },
+    "coffee": {
+        "stock": 430,
+        "price": 500
+    },
+    "chilled_chicken_wrap": {
+        "stock": 430,
+        "price": 500
+    },
+    "chocolate_milkshake": {
+        "stock": 430,
+        "price": 500
+    },
+    "chocolate_fudge_brownie": {
+        "stock": 430,
+        "price": 500
+    },
+    "zesty_southwest_salad": {
+        "stock": 430,
+        "price": 500
+    },
+    "brewed_iced_tea": {
+        "stock": 430,
+        "price": 500
+    },
+    "crispy_chicken_tenders": {
+        "stock": 430,
+        "price": 500
+    },
+    "brown_scramble_bowl": {
+        "stock": 430,
+        "price": 500
+    },
+    "chicken_egg_cheese": {
+        "stock": 430,
+        "price": 500
+    },
+    "frozen_citrus_smoothie": {
+        "stock": 430,
+        "price": 500
+    },
+    "frosted_coffee": {
+        "stock": 430,
+        "price": 500
+    },
+    "crispy_waffle_fries": {
+        "stock": 430,
+        "price": 500
+    },
+    "grilled_chicken_bites": {
+        "stock": 430,
+        "price": 500
+    },
+    "chocolate_chunk_cookie": {
+        "stock": 430,
+        "price": 500
+    },
+    "apple_sauce": {
+        "stock": 430,
+        "price": 500
+    },
+    "frozen_dream_cone": {
+        "stock": 430,
+        "price": 500
+    },
+    "citrus_refresh_lemonade": {
+        "stock": 429,
+        "price": 500
+    }
+}

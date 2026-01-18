@@ -1,0 +1,238 @@
+{
+    "bs_mozzarella_sticks": {
+        "stock": 430,
+        "price": 500
+    },
+    "deluxe_chicken_royale": {
+        "stock": 430,
+        "price": 500
+    },
+    "soft_serve_cup": {
+        "stock": 430,
+        "price": 500
+    },
+    "sugar_free_root_beer": {
+        "stock": 430,
+        "price": 500
+    },
+    "medium_light_cola": {
+        "stock": 430,
+        "price": 500
+    },
+    "chicken_nuggets": {
+        "stock": 430,
+        "price": 500
+    },
+    "ham_cheese_breakfast_croissant": {
+        "stock": 430,
+        "price": 500
+    },
+    "triple_cheeseburger_supreme": {
+        "stock": 430,
+        "price": 500
+    },
+    "double_sausage_croissant_sandwich": {
+        "stock": 430,
+        "price": 500
+    },
+    "double_sausage_biscuit": {
+        "stock": 430,
+        "price": 500
+    },
+    "bs_hamburger": {
+        "stock": 430,
+        "price": 500
+    },
+    "plain_iced_coffee": {
+        "stock": 430,
+        "price": 500
+    },
+    "supreme_breakfast_burrito": {
+        "stock": 430,
+        "price": 500
+    },
+    "buttermilk_biscuit": {
+        "stock": 430,
+        "price": 500
+    },
+    "double_cheeseburger": {
+        "stock": 430,
+        "price": 500
+    },
+    "classic_soda": {
+        "stock": 430,
+        "price": 500
+    },
+    "classic_chicken_sandwich": {
+        "stock": 430,
+        "price": 500
+    },
+    "junior_hamburger_combo": {
+        "stock": 430,
+        "price": 500
+    },
+    "junior_chicken_nuggets_combo": {
+        "stock": 430,
+        "price": 500
+    },
+    "crispy_chicken_fingers": {
+        "stock": 430,
+        "price": 500
+    },
+    "junior_cheeseburger_combo": {
+        "stock": 430,
+        "price": 500
+    },
+    "bs_iced_tea": {
+        "stock": 430,
+        "price": 500
+    },
+    "deluxe_breakfast_croissant": {
+        "stock": 430,
+        "price": 500
+    },
+    "refreshing_pink_lemonade": {
+        "stock": 430,
+        "price": 500
+    },
+    "vanilla_shake": {
+        "stock": 430,
+        "price": 500
+    },
+    "spicy_chicken_supreme_sandwich": {
+        "stock": 430,
+        "price": 500
+    },
+    "medium_citrus_spark": {
+        "stock": 430,
+        "price": 500
+    },
+    "cheese_stuffed_tater_tots": {
+        "stock": 430,
+        "price": 500
+    },
+    "chocolate_shake": {
+        "stock": 430,
+        "price": 500
+    },
+    "cheddar_jalapeno_poppers": {
+        "stock": 430,
+        "price": 500
+    },
+    "croissant_breakfast_combo": {
+        "stock": 430,
+        "price": 500
+    },
+    "decaf_brewed_coffee": {
+        "stock": 430,
+        "price": 500
+    },
+    "mini_chicken_sandwich": {
+        "stock": 430,
+        "price": 500
+    },
+    "tropical_fruit_blast": {
+        "stock": 430,
+        "price": 500
+    },
+    "bs_orange_juice": {
+        "stock": 430,
+        "price": 500
+    },
+    "small_classic_fries": {
+        "stock": 430,
+        "price": 500
+    },
+    "cookie_crumble_shake": {
+        "stock": 430,
+        "price": 500
+    },
+    "medium_citrus_spark_zero": {
+        "stock": 430,
+        "price": 500
+    },
+    "family_bundle_classic": {
+        "stock": 430,
+        "price": 500
+    },
+    "chocolate_fudge_cream_pie": {
+        "stock": 430,
+        "price": 500
+    },
+    "double_bacon_cheeseburger": {
+        "stock": 430,
+        "price": 500
+    },
+    "strawberry_shake": {
+        "stock": 430,
+        "price": 500
+    },
+    "pancake_sausage_platter": {
+        "stock": 430,
+        "price": 500
+    },
+    "apple_juice_pouch": {
+        "stock": 430,
+        "price": 500
+    },
+    "small_onion_rings": {
+        "stock": 430,
+        "price": 500
+    },
+    "bbq_onion_burger": {
+        "stock": 430,
+        "price": 500
+    },
+    "small_hash_browns": {
+        "stock": 430,
+        "price": 500
+    },
+    "medium_citrus_burst_soda": {
+        "stock": 430,
+        "price": 500
+    },
+    "bbq_double_burger": {
+        "stock": 430,
+        "price": 500
+    },
+    "bacon_ham_sausage": {
+        "stock": 430,
+        "price": 500
+    },
+    "mellow_soda": {
+        "stock": 430,
+        "price": 500
+    },
+    "french_toast_sticks": {
+        "stock": 430,
+        "price": 500
+    },
+    "sausage_croissant_sandwich": {
+        "stock": 430,
+        "price": 500
+    },
+    "big_fish": {
+        "stock": 430,
+        "price": 500
+    },
+    "chocolate_cookie_crumble_shake": {
+        "stock": 430,
+        "price": 500
+    },
+    "classic_Root_beer": {
+        "stock": 430,
+        "price": 500
+    },
+    "bottle_light_cola": {
+        "stock": 430,
+        "price": 500
+    },
+    "bs_yello_mello": {
+        "stock": 430,
+        "price": 500
+    },
+    "soft_serve_cone": {
+        "stock": 430,
+        "price": 500
+    }
+}

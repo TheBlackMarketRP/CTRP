@@ -1,0 +1,6 @@
+{
+    "AVP71555": "seed_brinjal",
+    "QKW22274": "seed_rice",
+    "DKL66991": "seed_rice",
+    "LMD92405": "seed_brinjal"
+}

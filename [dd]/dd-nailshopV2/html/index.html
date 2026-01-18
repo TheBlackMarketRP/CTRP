@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+    <title>Document</title>
+</head>
+<body>
+    <div class="background"></div>
+
+    <div class="text main-title" id="select-hand"></div>
+    <div class="text main-title" id="select-style"></div>
+    <div class="punto" id="B"></div>
+    <div class="punto" id="C"></div>
+    <div class="punto" id="D"></div>
+
+    <div class="punto" id="B2"></div>
+    <div class="punto" id="C2"></div>
+    <div class="punto" id="D2"></div>
+
+    <div class="container">
+        <div class="lateral" id="lateral">
+            <div class="controls" id="q"><p>Q</p></div>
+            <div class="lateral-button lateral-selected" id="color">
+                <span class="material-symbols-outlined">palette</span>
+            </div>
+            <div class="lateral-button" id="effect">
+                <span class="material-symbols-outlined">blur_on</span>
+            </div>
+            <div class="lateral-button" id="pattern">
+                <span class="material-symbols-outlined">texture</span>
+            </div>
+            <div class="lateral-button" id="pattern-color">
+                <span class="material-symbols-outlined">format_color_fill</span>
+            </div>
+            <div class="lateral-button" id="decoration">
+                <span class="material-symbols-outlined">category</span>
+            </div>
+            <div class="lateral-button" id="decoration-color">
+                <span class="material-symbols-outlined">format_paint</span>
+            </div>
+            <div class="lateral-button" id="length">
+                <span class="material-symbols-outlined">straighten</span>
+            </div>
+            <div class="controls" id="e"><p>E</p></div>
+        </div>
+    
+        <div class="middle" id="middle">
+            <div class="title"></div>
+            <div class="close close-all"><span class="material-symbols-outlined">close</span></div>
+            <div class="separator"></div>
+            <div class="list">
+            </div>
+    
+            <div class="bottom-line">
+                <div class="controls-apply apply-on-all"><p>apply on all</p></div>
+                <div class="controls-apply apply-on-one"><p>apply on one</p></div>
+            </div>
+        </div>
+
+        <div class="left">
+            <div class="title"></div>
+            <div class="close close-left"><span class="material-symbols-outlined">close</span></div>
+            <div class="separator2"></div>
+            <div class="list2">
+                <div class="element-short finger-element" id="Thumb"><p></p></div>
+                <div class="element-short finger-element" id="Index"><p></p></div>
+                <div class="element-short finger-element" id="Middle"><p></p></div>
+                <div class="element-short finger-element" id="Ring"><p></p></div>
+                <div class="element-short finger-element" id="Little"><p></p></div>
+            </div>
+            
+            <div class="bottom-line2">
+                <div class="controls-apply confirm-apply-on-one-preview"><p></p></div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="changeHand" id="changeHand">
+        <span class="material-symbols-outlined arrow">
+            double_arrow
+        </span>
+    </div>
+    
+    <div class="popup-confirm popup-confirm-one">
+        <p class="title"></p>
+
+        <div class="controls-confirm-container">
+            <div class="controls-confirm cancel"><p></p></div>
+            <div class="controls-confirm  confirm-apply-on-one-final"><p></p></div>
+        </div>
+    </div>
+
+    <div class="popup-confirm popup-confirm-all">
+        <p class="title"></p>
+
+        <div class="controls-confirm-container">
+            <div class="controls-confirm cancel"><p></p></div>
+            <div class="controls-confirm confirm-on-all"><p></p></div>
+        </div>
+    </div>
+
+    <div class="list-button"></div>
+
+    <script src="./script.js"></script>
+</body>
+</html>

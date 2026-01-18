@@ -1,0 +1,296 @@
+body {
+    background-color: transparent;
+}
+
+.progress-container {
+    display: none; /* display: flex; */
+    position: absolute;
+    top: 58%;
+    right: 0.5%;
+    flex-direction: column;
+    gap: 5px;
+}
+
+#health {
+    display: none;
+}
+#armor {
+    display: none;
+}
+#stamina {
+    display: none;
+}
+#stress {
+    display: none;
+}
+
+.progress-circle-health {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: conic-gradient(
+        #ddd 99% 0%,
+        #325a6a 0% 100%        
+    );
+}
+.progress-circle-armor {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: conic-gradient(
+        #ddd 99% 0%,
+        #325a6a 0% 100%        
+    );
+}
+.progress-circle-stamina {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: conic-gradient(
+        #ddd 99% 0%,
+        #325a6a 0% 100%        
+    );
+}
+.progress-circle-stress {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: conic-gradient(
+        #ddd 99% 0%,
+        #325a6a 0% 100%        
+    );
+}
+
+.icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 15px;
+    color: #ffffff;
+    z-index: 999999999;
+}
+
+.progress-mask-health {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.566);
+    clip-path: circle(40% at 50% 50%);
+}
+.progress-mask-armor {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.566);
+    clip-path: circle(40% at 50% 50%);
+}
+.progress-mask-stamina {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.566);
+    clip-path: circle(40% at 50% 50%);
+}
+.progress-mask-stress {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.566);
+    clip-path: circle(40% at 50% 50%);
+}
+
+
+/* -- Health UI -- */
+
+
+
+.container {
+    width: 75%;
+    height: 100%;
+    display: none;
+    align-items: center;
+    justify-content: flex-end;
+    float: right;
+    margin-right: 200px;
+    margin-top: 200px;
+}
+
+.mainbox {
+    width: 450px;
+    height: 730px;
+    background-color: #000000d0;
+    border-radius: 30px;
+    border: 6px solid #fff;
+    backdrop-filter: 6;
+}
+
+.head_box {
+    width: 450px;
+    height: 186px;
+    background-color: #051929;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border: 0px;
+    padding: 0px;
+}
+
+.text_1 {
+    color: #fff;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    text-align: center;
+    font-family: Leckerli One;
+    padding-top: 15px;
+}
+
+.profile_pictute {
+    opacity: 1200%;
+    border: 6px solid #fff;
+    border-radius: 50%;
+    height: 75px;
+    width: 75px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+.head_box_2 {
+    box-sizing: border-box;
+    display: flex;
+}
+
+.name_detail {
+    margin-left: 29px;
+    box-sizing: border-box;
+    display: flex;
+    width: 290px;
+    height: 36px;
+    margin-top: 5px;
+    text-align: justify;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.text_2 {
+    color: #fff;
+    font-family: League Spartan;
+}
+
+.text_3 {
+    color: #fff;
+    font-family: League Spartan;
+}
+
+.health_box {
+    margin-top: 1px;
+    border: 3px solid #fff;
+    width: 367px;
+    height: 8px;
+    border-radius: 50px;
+}
+
+.bar {
+    background-color: #fefbfb;
+    height: 8px;
+    width: 100%;
+    margin-top: 0px;
+    border-radius: 3px;
+    overflow: hidden;
+  }
+  
+  #health-bar {
+    background-color: rgb(60, 210, 6);
+    width: 100%; /* Adjust this dynamically */
+  }
+
+.ems_skell {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+
+.text_4 {
+    color: #fff;
+    font-size: 18px;
+    font-family: League Spartan;
+    height: 17px;
+}
+
+.skl_1 {
+    position: relative;
+    margin: 50px auto;
+}
+
+.skl_1_text {
+    color: #64BD97;
+    position: absolute;
+}
+
+.human_skell {
+    height: 400px;
+}
+
+.head_text {    
+    top: -35px;
+    right: 6px;
+}
+
+.body_text {    
+    top: 20px;
+}
+
+.hand_text {
+    top: 90px;
+    right: 6px;
+}
+
+.leg_text {
+    top: 255px;
+}
+
+.skl_1_text {
+    font-size: 14px;
+
+    display: flex;
+    align-items: center;
+}
+
+.blood-icon {
+    width: 16px;
+    height: 16px;
+    margin-left: 0px;
+}
+
+.patch_btn {
+    color: #ffffff;
+    position: absolute;
+    border-radius: 20px;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: #C63C51;
+    width: 85px;
+    height: 35px;
+    text-align: center;
+    justify-content: center;
+    bottom: -10px;
+    right: -40px;
+    cursor: pointer;
+}
+

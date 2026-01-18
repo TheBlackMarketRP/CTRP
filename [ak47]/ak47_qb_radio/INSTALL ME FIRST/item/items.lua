@@ -1,0 +1,1 @@
+['radio'] = {['name'] = 'radio', ['label'] = 'Radio', ['weight'] = 500, ['type'] = 'item', ['image'] = 'radio.png', ['unique'] = false, ['useable'] = true, ['shouldClose'] = false, ['combinable'] = nil, ['description'] = 'Your description here'},

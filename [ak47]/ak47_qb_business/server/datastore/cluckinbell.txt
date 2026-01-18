@@ -1,0 +1,46 @@
+{
+    "garlic_parm_wings": {
+        "stock": 430,
+        "price": 500
+    },
+    "rotisserie_wings": {
+        "stock": 430,
+        "price": 500
+    },
+    "original_hot_wings": {
+        "stock": 430,
+        "price": 500
+    },
+    "bbq_wings": {
+        "stock": 430,
+        "price": 500
+    },
+    "lemon_pepper_wings": {
+        "stock": 430,
+        "price": 500
+    },
+    "asain_zest_wings": {
+        "stock": 430,
+        "price": 500
+    },
+    "garlic_parmesan_wings": {
+        "stock": 430,
+        "price": 500
+    },
+    "korean_bbq_wings": {
+        "stock": 430,
+        "price": 500
+    },
+    "water": {
+        "stock": 430,
+        "price": 500
+    },
+    "fries": {
+        "stock": 430,
+        "price": 500
+    },
+    "blazing_hot_wings": {
+        "stock": 430,
+        "price": 500
+    }
+}

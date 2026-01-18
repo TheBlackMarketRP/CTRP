@@ -1,0 +1,50 @@
+<!-- Written by UnLuckyLust ( © Dreams Weaver 2023-2025 ) | Download Free only at https://UnLuckyLust.tebex.io -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ull-watermark</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <script type="text/javascript" src="function.js"></script>
+</head>
+<body>
+    <div class="watermark-ui">
+        <h2>Watermark Control</h2>
+        <div class="row">
+            <button id="toggleWatermark" class="half">Toggle</button>
+            <select id="animationSelect" class="half">
+                <option value="static">Static</option>
+                <option value="typing">Typing</option>
+                <option value="fade">Fade</option>
+                <option value="rgb">RGB</option>
+                <option value="glow">Glow</option>
+                <option value="expand">Expand</option>
+            </select>
+        </div>
+        <input type="text" id="watermarkName" class="full" placeholder="Watermark text">
+        <input type="text" id="watermarkImage" class="full" placeholder="Image URL">
+        
+        <div class="row position-wrapper">
+            <div class="position-selector">
+                <div class="position-box top-left active" data-pos="top-left"></div>
+                <div class="position-box top-center" data-pos="top-center"></div>
+                <div class="position-box top-right" data-pos="top-right"></div>
+                <div class="position-box center-left" data-pos="center-left"></div>
+                <div class="position-box center" data-pos="center"></div>
+                <div class="position-box center-right" data-pos="center-right"></div>
+                <div class="position-box bottom-left" data-pos="bottom-left"></div>
+                <div class="position-box bottom-center" data-pos="bottom-center"></div>
+                <div class="position-box bottom-right" data-pos="bottom-right"></div>
+            </div>
+        </div>
+
+        <div class="row">
+            <button id="exitUI" class="half">Exit</button>
+            <button id="applyWatermark" class="half">Apply</button>
+        </div>
+    </div>
+</body>
+</html>

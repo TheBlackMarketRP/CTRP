@@ -1,0 +1,122 @@
+{
+    "cheesy_black_bean": {
+        "stock": 430,
+        "price": 500
+    },
+    "chicken_burrito": {
+        "stock": 430,
+        "price": 500
+    },
+    "fiery_lava_burrito": {
+        "stock": 430,
+        "price": 500
+    },
+    "supreme_taco_flatbread": {
+        "stock": 430,
+        "price": 500
+    },
+    "max_cola": {
+        "stock": 430,
+        "price": 500
+    },
+    "fishtaco": {
+        "stock": 430,
+        "price": 500
+    },
+    "deluxe_soft_taco": {
+        "stock": 430,
+        "price": 500
+    },
+    "supreme_crunch_taco": {
+        "stock": 430,
+        "price": 500
+    },
+    "citrus_spark": {
+        "stock": 430,
+        "price": 500
+    },
+    "cinnamon_twists": {
+        "stock": 430,
+        "price": 500
+    },
+    "cheesy_quesadilla_bites": {
+        "stock": 430,
+        "price": 500
+    },
+    "cheese_quesadilla": {
+        "stock": 430,
+        "price": 500
+    },
+    "cheese_crunch_taco_wrap": {
+        "stock": 430,
+        "price": 500
+    },
+    "crispy_wrap_supreme_meal": {
+        "stock": 430,
+        "price": 500
+    },
+    "supreme_taco_duo": {
+        "stock": 430,
+        "price": 500
+    },
+    "cheesy_beef_nachos": {
+        "stock": 430,
+        "price": 500
+    },
+    "spicy_burrito_fiesta": {
+        "stock": 430,
+        "price": 500
+    },
+    "slim_cola": {
+        "stock": 430,
+        "price": 500
+    },
+    "soft_taco": {
+        "stock": 430,
+        "price": 500
+    },
+    "churros_dip": {
+        "stock": 430,
+        "price": 500
+    },
+    "spicy_chicken_burrito": {
+        "stock": 430,
+        "price": 500
+    },
+    "fries_grande": {
+        "stock": 430,
+        "price": 500
+    },
+    "taco_regular": {
+        "stock": 430,
+        "price": 500
+    },
+    "crispy_chicken_staco": {
+        "stock": 430,
+        "price": 500
+    },
+    "citrus_fizz": {
+        "stock": 430,
+        "price": 500
+    },
+    "quesadilla": {
+        "stock": 430,
+        "price": 500
+    },
+    "crunchytaco": {
+        "stock": 430,
+        "price": 500
+    },
+    "crunchy_wrap_supreme": {
+        "stock": 430,
+        "price": 500
+    },
+    "tacomeet": {
+        "stock": 430,
+        "price": 500
+    },
+    "apple_sparkle": {
+        "stock": 430,
+        "price": 500
+    }
+}

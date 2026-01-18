@@ -1,0 +1,25 @@
+shared_script '@mercyac/shared_fg-obfuscated.lua'
+shared_script '@mercyac/ai_module_fg-obfuscated.lua'
+shared_script '@mercyac/protection_shared-obfuscated.lua'
+fx_version 'cerulean'
+game 'gta5'
+author 'AProject'
+description 'Police Dog Script for QBCore'
+version '1.0.0'
+
+lua54 'yes'
+
+shared_script '@ox_lib/init.lua'
+
+shared_scripts {
+    'config.lua',
+    'bridge/server_bridge.lua' 
+}
+
+client_scripts {
+    'client/commands.lua',
+    'client/menu.lua',
+    'client/main.lua'
+}
+
+server_script 'server/main.lua' 

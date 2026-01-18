@@ -1,0 +1,52 @@
+{
+    "1": {
+        "live": "live:844425441500844",
+        "reason": "stop cheating",
+        "ip": "107.201.151.163",
+        "name": "Misery",
+        "license": "license:d9a72bb351cae5a4598bd6f09c2bdaeee73dd00a",
+        "screenshoturl": "",
+        "discord": "967936027694100560",
+        "xbl": "xbl:2535468142366069",
+        "fg_ts": {
+            "t2": "off",
+            "t3": "YIacEGHpW6310qPo9dPD0svadvPpQJEm",
+            "t4": "15356505631101148883",
+            "t1": "off"
+        },
+        "manual": true,
+        "steam": "Invalid",
+        "tokens": [
+            "3:bd35ee6f8fa0f2faf8c71d8ea24d09a1b90a004bbe37bb1ec531c1bf10c3f964",
+            "4:64428d629c4b44c28036b3c23bca6dea4763f8d87c4dc0a3f43a66a764c1ad5b",
+            "4:814addfd66e3c4cb8bca5e8bbbf6b155736042a9a2453877c8836bf35ec49263",
+            "4:5f397ea77cb596235795b5cb9a264c97ad283687c36d32470acd0044719eebcd",
+            "2:167e1c188318a5daae54544d9f6f702eafad1d86e4d3a204ea65a4da51630d0c"
+        ]
+    },
+    "2": {
+        "live": "live:914799508418913",
+        "reason": "No reason specified.",
+        "ip": "97.201.132.130",
+        "name": "CHUPA MI PITO",
+        "license": "license:dccc79850868d6eae66940b208b2987e60e60e42",
+        "screenshoturl": "",
+        "discord": "1261474771443646485",
+        "xbl": "xbl:2535441734607653",
+        "fg_ts": {
+            "t2": "off",
+            "t3": "i7K0jRyyQ8W3OnL4tgJrrqJnoqJygt1C",
+            "t4": "18695665591442366523",
+            "t1": "off"
+        },
+        "manual": true,
+        "steam": "Invalid",
+        "tokens": [
+            "4:71f0e4f4616d89198fe5fd3de7b9e3eab5a87ac5a5c4d9b3f89ac3e52b0aa01c",
+            "4:8941a468811dfeb9be200e6f4cb4186050953c9c439a08f06f9837dcd7b70ad5",
+            "4:7116470800c97e5850567eb64884ec9779290943f7f110a1b4b3b0026a0381a8",
+            "2:fb07bb28136ed1a31e32ab5db3a847789676a64f538a6f2ea0bc930264d407f2",
+            "5:a01f15ce674fc5f4ed60cc4aef0d6606960d40f586593584e95565654166b3ad"
+        ]
+    }
+}
